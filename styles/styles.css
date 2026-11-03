@@ -10,84 +10,264 @@
  * governing permissions and limitations under the License.
  */
 
+/*
+ * Doosan Bobcat — foundation (replica of the gated canon, stardust/prototypes/canon.css).
+ * Fonts: Pretendard + Noto Sans KR, both SIL OFL 1.1, self-hosted (styles/fonts.css).
+ * Root font-size model: 62.5% / 58% (<=1470) / 55% (<=1240) / 53% (<=767) — every rem in
+ * the blocks is authored against it.
+ */
+
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f4f4f5;
-  --dark-color: #121416;
-  --text-color: #1f2327;
-  --link-color: #8b71fe;
-  --link-hover-color: #6e51fd;
+  /* brand tokens (canon) */
+  --font-base: pretendard, pretendard-fallback, 'Noto Sans KR', 'Malgun Gothic', dotum, sans-serif;
+  --c-brand: #005eb8;
+  --c-brand-2: #005bac;
+  --c-ink: #222;
+  --c-ink-2: #232323;
+  --c-body: #666;
+  --c-muted: #878788;
+  --c-line: #ddd;
+  --c-surface: #f5f5f7;
+  --c-footer: #171717;
+  --c-white: #fff;
+  --shadow-card: 5px 9px 15px 0 rgb(14 23 32 / 13%);
+  --shadow-header: 1px 1px 25px rgb(67 67 67 / 20%);
+  --container: 150rem; /* 1500px at the 62.5% root */
+  --container-w: 94%;
+  --header-h: 10rem;
 
-  /* fonts */
-  --body-font-family: poppins, roboto-fallback, sans-serif;
-  --heading-font-family: montserrat, roboto-condensed-fallback, sans-serif;
+  /* boilerplate aliases (kept so stock blocks still resolve) */
+  --background-color: #fff;
+  --light-color: var(--c-surface);
+  --dark-color: var(--c-ink);
+  --text-color: var(--c-body);
+  --link-color: var(--c-brand);
+  --link-hover-color: var(--c-brand-2);
+  --body-font-family: var(--font-base);
+  --heading-font-family: var(--font-base);
 
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
-
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
-
-  /* nav heights */
-  --nav-height: 64px;
-  --breadcrumbs-height: 34px;
-  --header-height: var(--nav-height);
+  /* overlay chrome: the header is position: fixed, nothing to reserve in flow */
+  --nav-height: 0px;
 }
 
-/* fallback fonts */
+/* metric-matched fallback for Pretendard (latin-weighted, computed from Pretendard-Regular) */
 @font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
+  font-family: pretendard-fallback;
+  size-adjust: 101.34%;
+  ascent-override: 93.95%;
+  descent-override: 23.8%;
+  line-gap-override: 0%;
   src: local('Arial');
 }
 
-@font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
+/* ---------- root font-size model (source common.css) ---------- */
+html {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  text-size-adjust: none;
 }
 
-@media (width >= 900px) {
-  :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
-
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
+@media (width <= 1470px) {
+  html {
+    font-size: 58%;
   }
+}
+
+@media (width <= 1240px) {
+  html {
+    font-size: 55%;
+  }
+}
+
+@media (width <= 767px) {
+  html {
+    font-size: 53%;
+  }
+}
+
+/* ---------- reset (source base.css) ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  letter-spacing: -0.03em;
+  word-break: keep-all;
+}
+
+body,
+div,
+span,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+em,
+img,
+strong,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+section,
+main,
+input,
+button {
+  margin: 0;
+  padding: 0;
 }
 
 body {
   display: none;
-  margin: 0;
+  min-width: 280px;
+  width: 100%;
+  height: auto;
   background-color: var(--background-color);
-  color: var(--text-color);
-  font-family: var(--body-font-family);
-  font-size: var(--body-font-size-m);
-  line-height: 1.6;
+  color: var(--c-body);
+  font-family: var(--font-base);
+  font-size: 1.63rem;
+  letter-spacing: -0.03em;
 }
 
 body.appear {
   display: block;
 }
 
+@media (width <= 767px) {
+  body {
+    font-size: 1.6rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  border: 0;
+  font-family: var(--font-base);
+}
+
+form,
+fieldset {
+  border: 0;
+}
+
+article,
+aside,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+main {
+  display: block;
+}
+
+ul,
+ol,
+dl,
+li,
+dt,
+dd {
+  list-style: none;
+}
+
+legend {
+  overflow: hidden;
+  position: absolute;
+  font-size: 0;
+  line-height: 0;
+  text-indent: -9999em;
+}
+
+input,
+textarea,
+select,
+button {
+  font-family: var(--font-base);
+  vertical-align: middle;
+}
+
+button {
+  cursor: pointer;
+  appearance: none;
+}
+
+a,
+a:any-link {
+  color: var(--c-body);
+  text-decoration: none;
+}
+
+::selection {
+  background: #c9ab81;
+  color: #fff;
+}
+
+img {
+  max-width: 100%;
+  border: 0;
+}
+
+/* the media pipeline emits width/height attributes — never let them stretch an image */
+main img {
+  height: auto;
+}
+
+body::-webkit-scrollbar {
+  width: 14px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #b8b8b8;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* ---------- chrome reservation (boilerplate structural layer) ---------- */
 header {
-  height: var(--header-height);
+  height: var(--nav-height);
 }
 
 header .header,
@@ -100,192 +280,128 @@ footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
-@media (width >= 900px) {
-  body[data-breadcrumbs] {
-    --header-height: calc(var(--nav-height) + var(--breadcrumbs-height));
-  }
+/* ---------- section scaffold: every block is full-bleed and caps its own .inner ---------- */
+main {
+  position: relative;
+  z-index: 1;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
-  scroll-margin: 40px;
+main > .section {
+  margin: 0;
 }
 
-h1 {
-  font-size: var(--heading-font-size-xxl);
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: -0.01em;
-}
-h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
-h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
-h6 { font-size: var(--heading-font-size-xs); }
-
-p,
-dl,
-ol,
-ul,
-pre,
-blockquote {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
+main > .section > div {
+  max-width: none;
+  margin: 0;
+  padding: 0;
 }
 
-code,
-pre {
-  font-size: var(--body-font-size-s);
+main .section:empty {
+  display: none;
 }
 
-pre {
-  padding: 16px;
-  border-radius: 8px;
-  background-color: var(--light-color);
-  overflow-x: auto;
-  white-space: pre;
+/* ---------- buttons: the site's one CTA paint (source .btn_more_type01) ---------- */
+p.button-wrapper {
+  margin: 0;
 }
 
-main > div {
-  margin: 40px 16px;
-}
-
-input,
-textarea,
-select,
-button {
-  font: inherit;
-}
-
-/* links */
-a:any-link {
-  color: var(--link-color);
-  text-decoration: none;
-  word-break: break-word;
-}
-
-a:hover {
-  color: var(--link-hover-color);
-  text-decoration: underline;
-}
-
-/* buttons */
 a.button:any-link,
-button {
-  box-sizing: border-box;
-  display: inline-block;
-  max-width: 100%;
-  margin: 12px 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
-  font-family: var(--body-font-family);
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.25;
-  text-align: center;
+button.button {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 5.8rem 1rem 0;
+  border: 0;
+  background: transparent url('media/main-button_more_arrow.png') no-repeat right center / 2.3rem 1.1rem;
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1;
   text-decoration: none;
-  background-color: var(--link-color);
-  color: var(--background-color);
-  cursor: pointer;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-a.button:hover,
-a.button:focus,
-button:hover,
-button:focus {
-  background-color: var(--link-hover-color);
   cursor: pointer;
 }
 
-button:disabled,
-button:disabled:hover {
-  background-color: var(--light-color);
-  cursor: unset;
+a.button:any-link::after,
+button.button::after {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #fff;
+  content: '';
 }
 
-a.button.secondary,
-button.secondary {
-  background-color: unset;
-  border: 2px solid currentcolor;
-  color: var(--text-color);
+a.button:any-link:hover::after,
+button.button:hover::after {
+  animation: button-underline 0.7s cubic-bezier(0.5, 0.54, 0, 0.75) forwards;
 }
 
-main img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
+a.button[aria-disabled="true"],
+button.button:disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+@keyframes button-underline {
+  0% {
+    transform: scaleX(1);
+    transform-origin: 100% 0;
+  }
+
+  45% {
+    transform: scaleX(0);
+    transform-origin: 100% 0;
+  }
+
+  55% {
+    transform: scaleX(0);
+    transform-origin: 0 0;
+  }
+
+  100% {
+    transform: scaleX(1);
+    transform-origin: 0 0;
+  }
 }
 
 .icon {
   display: inline-block;
-  height: 24px;
   width: 24px;
+  height: 24px;
 }
 
 .icon img {
-  height: 100%;
   width: 100%;
+  height: 100%;
 }
 
-/* sections */
-main > .section {
-  margin: 40px 0;
+/* stylelint-disable no-descending-specificity -- canon cascade order is load-bearing (port) */
+
+/* ---------- Experience Workspace edit mode (EW3/EW6/EW10) ---------- */
+
+/* (a) repaint CTAs from their authored marks */
+.prosemirror-editor p > :is(strong, em) > a:any-link,
+.prosemirror-editor p > a:any-link:has(> :is(strong, em):only-child) {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  padding: 1rem 5.8rem 1rem 0;
+  border-bottom: 1px solid currentcolor;
+  background: transparent url('media/main-button_more_arrow.png') no-repeat right center / 2.3rem 1.1rem;
+  font-size: 1.6rem;
+  line-height: 1;
+  text-decoration: none;
 }
 
-main > .section > div {
-  max-width: 1200px;
-  margin: auto;
-  padding: 0 24px;
+.prosemirror-editor p > a:any-link > :is(strong, em) {
+  font-weight: inherit;
+  font-style: inherit;
 }
 
-main > .section:first-of-type {
-  margin-top: 0;
-}
-
-@media (width >= 900px) {
-  main > .section > div {
-    padding: 0 32px;
-  }
-}
-
-/* section metadata */
-main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
-  margin: 0;
-  padding: 40px 0;
-}
-
-main .section.glow {
-  background:
-    radial-gradient(
-      ellipse 50% 60% at 25% 40%,
-      var(--light-color) 0%,
-      var(--background-color) 70%
-    );
-  margin: 0;
-  padding: 64px 0;
-}
-
-main .section.dark {
-  background-color: var(--dark-color);
-  color: var(--background-color);
-  margin: 0;
-  padding: 40px 0;
-}
-
-main .section.dark a:any-link {
-  color: var(--background-color);
+/* (b) card-as-link inner anchor reads like the card text */
+a .prosemirror-editor a:any-link {
+  color: inherit;
+  text-decoration: none;
 }

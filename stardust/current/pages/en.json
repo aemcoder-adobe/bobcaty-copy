@@ -1,0 +1,749 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-02T21:16:45.276Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en",
+  "url": "https://www.doosanbobcat.com/en",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-02T21:16:45.276Z",
+  "finalUrl": "https://www.doosanbobcat.com/en",
+  "title": "Doosan Bobcat",
+  "description": "Inventing the world's first skid-steer loader, Doosan Bobcat is the global leader in the business of compact equipment, expanding our business portfolio into grounds maintenance equipment and Material Handling.",
+  "og": {
+    "title": "Doosan Bobcat",
+    "description": "Inventing the world's first skid-steer loader, Doosan Bobcat is the global leader in the business of compact equipment, expanding our business portfolio into grounds maintenance equipment and Material Handling.",
+    "image": "/images/common/opengraph.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "DOOSAN"
+    },
+    {
+      "tag": "h2",
+      "text": "menu"
+    },
+    {
+      "tag": "h1",
+      "text": "Doosan Bobcat"
+    },
+    {
+      "tag": "h2",
+      "text": "DOOSAN BOBCAT"
+    },
+    {
+      "tag": "h2",
+      "text": "Products"
+    },
+    {
+      "tag": "h3",
+      "text": "Compact Equipment"
+    },
+    {
+      "tag": "h3",
+      "text": "Material Handling"
+    },
+    {
+      "tag": "h3",
+      "text": "Portable Power"
+    },
+    {
+      "tag": "h2",
+      "text": "Sustainability"
+    },
+    {
+      "tag": "h2",
+      "text": "Media Center"
+    },
+    {
+      "tag": "h3",
+      "text": "More News More Videos"
+    },
+    {
+      "tag": "h3",
+      "text": "YouTube"
+    },
+    {
+      "tag": "h3",
+      "text": "Products"
+    },
+    {
+      "tag": "h3",
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "text": "Investors"
+    },
+    {
+      "tag": "h3",
+      "text": "Sustainability"
+    },
+    {
+      "tag": "h3",
+      "text": "Media Center"
+    },
+    {
+      "tag": "h2",
+      "text": "Doosan Bobcat"
+    },
+    {
+      "tag": "h3",
+      "text": "Related Sites"
+    }
+  ],
+  "body": [
+    "Be the First Choice for All Groundbreakers",
+    "Doosan Bobcat is dedicated to strengthening its leadership position across its entire product portfolio. To achieve sustainable growth, the company prioritizes diversifying its product offerings and globalizing its footprint, all while delivering innovative products and services.",
+    "As the inventor of the world's first skid-steer loader, Doosan Bobcat is a leading global manufacturer and distributor of premium brands leading multiple industry segments.",
+    "We invented the original skid- steer loader and produced our millionth loader in 2014. More Bobcat® skid-steer loaders are at work around the world than all the other brands combined.",
+    "We offer the most attachments (100+ categories) in the industry.",
+    "We have 1500+ dealerships in North America, delivering industry-leading support to customers in their local communities.",
+    "We introduced the world's first all-electric compact loaders, as we innovate for the future.",
+    "Doosan Bobcat builds the most reliable compact equipment and attachments to help customers conquer their toughest jobs.",
+    "Compact Equipment Doosan Bobcat leads the industry in the design, manufacturing, marketing and distribution of compact equipment for construction, landscaping, agriculture, grounds maintenance, utility and mining industries. Committed to empowering people to accomplish more, Doosan Bobcat is dedicated to building stronger communities for a better tomorrow. Learn more Learn more",
+    "Material Handling We emphasizes operator convenience, equipment performance and eco-friendly features such as reduced noise and emissions. Learn more Learn more",
+    "Portable Power We provides durable and reliable air compressors, generators and light towers that are built to last, easy to operate and ready to perform on demand. Learn more Learn more",
+    "Doosan Bobcat is committed to a strong economic future, while also evolving in bold ways to meet our customers’ toughest challenges and offer solutions for a more sustainable future.",
+    "Environmental",
+    "Social",
+    "Governance",
+    "Stay up to date with the latest news of Doosan Bobcat.",
+    "2026.10 29",
+    "Doosan Bobcat Reports Q3 Operating Profit of USD 119 Million, Up 22% Year over Year",
+    "2026.10 19",
+    "Doosan Bobcat’s RogueX3 Wins Red Dot Award",
+    "2023.05 23",
+    "Bobcat at CONEXPO-CON/AGG 2023",
+    "2023.01 05",
+    "Groundbreaking Innovations at Bauma: E35z,T7X and S76",
+    "Looking for more news from Doosan Bobcat? Follow us on social media.",
+    "Doosan Bobcat NA (North America)",
+    "Doosan Bobcat EMEA (Europe · Middle East · Africa)",
+    "Doosan Bobcat ALAO (Asia · Latin America · Oceania)",
+    "Material Handling",
+    "Portable Power",
+    "Management Team",
+    "Vision",
+    "History",
+    "Brands",
+    "Global Locations",
+    "CI",
+    "Contact Us",
+    "IR Archive",
+    "Governance",
+    "Financial Report",
+    "ESG",
+    "Ethical Management",
+    "Social Responsibility",
+    "News",
+    "Video & Print",
+    "©2026 Doosan Bobcat.",
+    "Suppliers",
+    "Jobs at Doosan Bobcat",
+    "Legal Notice",
+    "Terms of use",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DOOSAN",
+      "href": "/en"
+    },
+    {
+      "label": "Products",
+      "href": "/en/products/compact/list"
+    },
+    {
+      "label": "Company",
+      "href": "/en/about/member"
+    },
+    {
+      "label": "Investors",
+      "href": "/en/investment/irData"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/en/management/esg_strategy"
+    },
+    {
+      "label": "Media Center",
+      "href": "/en/mediacenter/news"
+    },
+    {
+      "label": "Open search box",
+      "href": null
+    },
+    {
+      "label": "Choose your language",
+      "href": null
+    },
+    {
+      "label": "01",
+      "href": null
+    },
+    {
+      "label": "02",
+      "href": null
+    },
+    {
+      "label": "03",
+      "href": null
+    },
+    {
+      "label": "History of Doosan Bobcat",
+      "href": "/en/about/history"
+    },
+    {
+      "label": "Compact Equipment Doosan Bobcat leads the industry in the design, manufacturing, marketing and distribution of compact equipment for construction, landscaping, agriculture, grounds maintenance, utility and mining industries. Committed to empowering people to accomplish more, Doosan Bobcat is dedicated to building stronger communities for a better tomorrow. Learn more Learn more",
+      "href": "/en/products/compact/list"
+    },
+    {
+      "label": "Material Handling We emphasizes operator convenience, equipment performance and eco-friendly features such as reduced noise and emissions. Learn more Learn more",
+      "href": "/en/products/industrial/list"
+    },
+    {
+      "label": "Portable Power We provides durable and reliable air compressors, generators and light towers that are built to last, easy to operate and ready to perform on demand. Learn more Learn more",
+      "href": "/en/products/portable/list"
+    },
+    {
+      "label": "Learn more",
+      "href": "/en/management/esg_result"
+    },
+    {
+      "label": "More News",
+      "href": "/en/mediacenter/news"
+    },
+    {
+      "label": "More Videos",
+      "href": "/en/mediacenter/prvideo"
+    },
+    {
+      "label": "News 2026.10 29 Doosan Bobcat Reports Q3 Operating Profit of USD 119 Million, Up 22% Year over Year",
+      "href": "/en/mediacenter/news/detail?id=333"
+    },
+    {
+      "label": "News 2026.10 19 Doosan Bobcat’s RogueX3 Wins Red Dot Award",
+      "href": "/en/mediacenter/news/detail?id=331"
+    },
+    {
+      "label": "Video 2023.05 23 Bobcat at CONEXPO-CON/AGG 2023",
+      "href": "https://www.youtube.com/embed/-IeEb_OHzFk"
+    },
+    {
+      "label": "Video 2023.01 05 Groundbreaking Innovations at Bauma: E35z,T7X and S76",
+      "href": "https://www.youtube.com/embed/oooFUF3Xkck"
+    },
+    {
+      "label": "Doosan Bobcat NA (North America)",
+      "href": "https://www.youtube.com/user/BobcatCompany"
+    },
+    {
+      "label": "Doosan Bobcat EMEA (Europe · Middle East · Africa)",
+      "href": "https://www.youtube.com/user/BobcatEMEA"
+    },
+    {
+      "label": "Doosan Bobcat ALAO (Asia · Latin America · Oceania)",
+      "href": "https://www.youtube.com/c/BobcatAPLA/featured"
+    },
+    {
+      "label": "Material Handling",
+      "href": "https://www.youtube.com/channel/UCOHjNte1Ef818hU22A35B_g"
+    },
+    {
+      "label": "Portable Power",
+      "href": "https://www.youtube.com/user/DoosanPortablePower"
+    },
+    {
+      "label": "Compact Equipment",
+      "href": "/en/products/compact/list"
+    },
+    {
+      "label": "Compact Loaders",
+      "href": "/en/products/compact/item_01"
+    },
+    {
+      "label": "Compact Excavators",
+      "href": "/en/products/compact/item_02"
+    },
+    {
+      "label": "Telehandlers",
+      "href": "/en/products/compact/item_03"
+    },
+    {
+      "label": "Compact Tractors",
+      "href": "/en/products/compact/item_04"
+    },
+    {
+      "label": "Zero-Turn Mowers",
+      "href": "/en/products/compact/item_05"
+    },
+    {
+      "label": "Utility Products",
+      "href": "/en/products/compact/item_06"
+    },
+    {
+      "label": "Articulating Tractors",
+      "href": "/en/products/compact/item_09"
+    },
+    {
+      "label": "Turf Renovation Equipment",
+      "href": "/en/products/compact/item_10"
+    },
+    {
+      "label": "Light Compaction",
+      "href": "/en/products/compact/item_07"
+    },
+    {
+      "label": "Attachments",
+      "href": "/en/products/compact/item_08"
+    },
+    {
+      "label": "Material Handling",
+      "href": "/en/products/industrial/list"
+    },
+    {
+      "label": "Internal Combustion Pneumatic Forklift",
+      "href": "/en/products/industrial/item_01"
+    },
+    {
+      "label": "Internal Combustion Cushion Forklift",
+      "href": "/en/products/industrial/item_02"
+    },
+    {
+      "label": "High Capacity Forklift",
+      "href": "/en/products/industrial/item_09"
+    },
+    {
+      "label": "Electric Counterbalance Forklift",
+      "href": "/en/products/industrial/item_03"
+    },
+    {
+      "label": "Warehouse Equipment",
+      "href": "/en/products/industrial/item_05"
+    },
+    {
+      "label": "Portable Power",
+      "href": "/en/products/portable/list.html"
+    },
+    {
+      "label": "Air Compressors",
+      "href": "/en/products/portable/item_01"
+    },
+    {
+      "label": "Generators",
+      "href": "/en/products/portable/item_02"
+    },
+    {
+      "label": "Light Towers",
+      "href": "/en/products/portable/item_03"
+    },
+    {
+      "label": "Industrial Air",
+      "href": "/en/products/portable/item_05"
+    },
+    {
+      "label": "Management Team",
+      "href": "/en/about/member"
+    },
+    {
+      "label": "Vision",
+      "href": "/en/about/vision"
+    },
+    {
+      "label": "History",
+      "href": "/en/about/history"
+    },
+    {
+      "label": "Brands",
+      "href": "/en/about/brand"
+    },
+    {
+      "label": "Global Locations",
+      "href": "/en/about/global"
+    },
+    {
+      "label": "CI",
+      "href": "/en/about/ci"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en/contactus"
+    },
+    {
+      "label": "IR Archive",
+      "href": "/en/investment/irData"
+    },
+    {
+      "label": "Governance",
+      "href": "/en/investment/governance01"
+    },
+    {
+      "label": "Financial Report",
+      "href": "/en/investment/finance/01"
+    },
+    {
+      "label": "ESG",
+      "href": "/en/management/esg_strategy"
+    },
+    {
+      "label": "Ethical Management",
+      "href": "/en/management/ethics_canon"
+    },
+    {
+      "label": "Social Responsibility",
+      "href": "/en/management/society"
+    },
+    {
+      "label": "News",
+      "href": "/en/mediacenter/news"
+    },
+    {
+      "label": "Video & Print",
+      "href": "/en/mediacenter/prvideo"
+    },
+    {
+      "label": "Doosan Bobcat",
+      "href": "/en/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://suppliers.doosanbobcat.com/"
+    },
+    {
+      "label": "Jobs at Doosan Bobcat",
+      "href": "https://jobs.doosan.com/bobcat/"
+    },
+    {
+      "label": "Legal Notice",
+      "href": "/en/contact/legal"
+    },
+    {
+      "label": "Terms of use",
+      "href": "/en/contact/terms"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en/contact/privacy"
+    }
+  ],
+  "links": [
+    "https://www.doosanbobcat.com/en",
+    "https://www.doosanbobcat.com/en/products/compact/list",
+    "javascript:void(0);",
+    "https://www.doosanbobcat.com/en/products/compact/item_01",
+    "https://www.doosanbobcat.com/en/products/compact/item_02",
+    "https://www.doosanbobcat.com/en/products/compact/item_03",
+    "https://www.doosanbobcat.com/en/products/compact/item_04",
+    "https://www.doosanbobcat.com/en/products/compact/item_05",
+    "https://www.doosanbobcat.com/en/products/compact/item_06",
+    "https://www.doosanbobcat.com/en/products/compact/item_09",
+    "https://www.doosanbobcat.com/en/products/compact/item_10",
+    "https://www.doosanbobcat.com/en/products/compact/item_07",
+    "https://www.doosanbobcat.com/en/products/compact/item_08",
+    "https://www.doosanbobcat.com/en/products/industrial/list",
+    "https://www.doosanbobcat.com/en/products/industrial/item_01",
+    "https://www.doosanbobcat.com/en/products/industrial/item_02",
+    "https://www.doosanbobcat.com/en/products/industrial/item_09",
+    "https://www.doosanbobcat.com/en/products/industrial/item_03",
+    "https://www.doosanbobcat.com/en/products/industrial/item_05",
+    "https://www.doosanbobcat.com/en/products/portable/list",
+    "https://www.doosanbobcat.com/en/products/portable/item_01",
+    "https://www.doosanbobcat.com/en/products/portable/item_02",
+    "https://www.doosanbobcat.com/en/products/portable/item_03",
+    "https://www.doosanbobcat.com/en/products/portable/item_05",
+    "https://www.doosanbobcat.com/en/about/member",
+    "https://www.doosanbobcat.com/en/about/vision",
+    "https://www.doosanbobcat.com/en/about/history",
+    "https://www.doosanbobcat.com/en/about/brand",
+    "https://www.doosanbobcat.com/en/about/global",
+    "https://www.doosanbobcat.com/en/about/ci",
+    "https://www.doosanbobcat.com/en/contactus",
+    "https://www.doosanbobcat.com/en/investment/irData",
+    "https://www.doosanbobcat.com/en/investment/governance01",
+    "https://www.doosanbobcat.com/en/investment/finance/01",
+    "https://www.doosanbobcat.com/en/management/esg_strategy",
+    "https://www.doosanbobcat.com/en/management/human-rights",
+    "https://www.doosanbobcat.com/en/management/ethics_canon",
+    "https://www.doosanbobcat.com/en/management/society",
+    "https://www.doosanbobcat.com/en/mediacenter/news",
+    "https://www.doosanbobcat.com/en/mediacenter/prvideo",
+    "https://www.bobcat.com/na/en/buying-tools/build-quote",
+    "https://www.bobcat.com/na/en/dealer",
+    "https://jobs.doosan.com/bobcat/",
+    "https://www.doosanbobcat.com/kr",
+    "https://www.doosanbobcat.com/en/management/esg_result",
+    "https://www.doosanbobcat.com/en/mediacenter/news/detail?id=333",
+    "https://www.doosanbobcat.com/en/mediacenter/news/detail?id=331",
+    "https://www.youtube.com/embed/-IeEb_OHzFk",
+    "https://www.youtube.com/embed/oooFUF3Xkck",
+    "https://www.youtube.com/user/BobcatCompany",
+    "https://www.youtube.com/user/BobcatEMEA",
+    "https://www.youtube.com/c/BobcatAPLA/featured",
+    "https://www.youtube.com/channel/UCOHjNte1Ef818hU22A35B_g",
+    "https://www.youtube.com/user/DoosanPortablePower",
+    "https://www.doosanbobcat.com/en/products/portable/list.html",
+    "https://www.doosanbobcat.com/en/",
+    "https://suppliers.doosanbobcat.com/",
+    "https://www.doosanbobcat.com/en/contact/legal",
+    "https://www.doosanbobcat.com/en/contact/terms",
+    "https://www.doosanbobcat.com/en/contact/privacy",
+    "https://www.doosan.com/kr",
+    "https://www.bobcat.com/na/en",
+    "https://www.doosanportablepower.com/ap/en",
+    "https://www.geith.com/en/",
+    "https://www.doosan-iv.com/en/",
+    "https://www.doosanbobcat.com/en#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_link_lightgray.png",
+        "alt": "",
+        "w": 17,
+        "h": 16
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_link_lightgray.png",
+        "alt": "",
+        "w": 17,
+        "h": 16
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_link_lightgray.png",
+        "alt": "",
+        "w": 17,
+        "h": 16
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_search_color.png",
+        "alt": "Search",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/ico_scrolldown.png",
+        "alt": "scroll down",
+        "w": 28,
+        "h": 64
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img01_on.png",
+        "alt": "Compact Equipment",
+        "w": 321,
+        "h": 231
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img01.png",
+        "alt": "Compact Equipment",
+        "w": 580,
+        "h": 501
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img02_on.png",
+        "alt": "Material Handling",
+        "w": 310,
+        "h": 236
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img02.png",
+        "alt": "Material Handling",
+        "w": 580,
+        "h": 501
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img03_on.png",
+        "alt": "Portable Power",
+        "w": 353,
+        "h": 171
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/product_img03.png",
+        "alt": "Portable Power",
+        "w": 580,
+        "h": 501
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/ico_esg01.png",
+        "alt": "Environment",
+        "w": 70,
+        "h": 67
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/ico_esg02.png",
+        "alt": "Society",
+        "w": 71,
+        "h": 60
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/ico_esg03.png",
+        "alt": "Governance",
+        "w": 70,
+        "h": 51
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/top_btn.png",
+        "alt": "Back to top",
+        "w": 64,
+        "h": 64
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_ft_link.png",
+        "alt": "View a new window",
+        "w": 13,
+        "h": 12
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/common/ico_ft_link.png",
+        "alt": "View a new window",
+        "w": 13,
+        "h": 12
+      }
+    ],
+    "allImgCount": 17,
+    "cssBackgrounds": [
+      "https://www.doosanbobcat.com/images/main/company_bg.png",
+      "https://www.doosanbobcat.com/images/main/product_bg01.png",
+      "https://www.doosanbobcat.com/images/main/industrial_intro_bg.png",
+      "https://www.doosanbobcat.com/images/main/portable_intro_bg.png",
+      "https://www.doosanbobcat.com/images/main/esg_bg.png",
+      "https://www.doosanbobcat.com/images/main/youtube_bg.png"
+    ],
+    "modals": [],
+    "videos": [
+      {
+        "src": "https://www.doosanbobcat.com/images/main/mvisual_video01.mp4",
+        "poster": null,
+        "autoplay": false,
+        "loop": false,
+        "muted": true
+      }
+    ],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 15,
+    "mainTextLen": 3578,
+    "realImageCount": 17,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "analytics.google.com",
+        "path": "/g/collect",
+        "query": [
+          "_ee",
+          "_eu",
+          "_fv",
+          "_gaz",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ec_mode",
+          "ecid",
+          "en",
+          "frm",
+          "gaf",
+          "gcd",
+          "gtm",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://analytics.google.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.doosanbobcat.com",
+        "path": "/cdn-cgi/rum",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.doosanbobcat.com/cdn-cgi/rum",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "static.cloudflareinsights.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 2,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en.png",
+  "renderedHtml": "pages/en.html",
+  "slots": {
+    "hero": "section.visual_section",
+    "company": "section.company_section",
+    "products": "section.product_section",
+    "sustainability": "section.sustainability (4th fp-section)",
+    "media": "media center fp-section",
+    "footer": "footer"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "discovery": {
+    "fetchTechnique": "headless",
+    "count": 2,
+    "concurrency": 2
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.doosanbobcat.com/images/common/favicon.ico",
+    "file": "assets/favicon.ico"
+  },
+  "crawl": {
+    "failures": []
+  },
+  "captureGaps": {
+    "roots": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 44,
+        "uncaptured": [
+          "/en/about/brand",
+          "/en/about/ci",
+          "/en/about/global",
+          "/en/about/history",
+          "/en/about/member",
+          "/en/about/vision",
+          "/en/contact/legal",
+          "/en/contact/privacy",
+          "/en/contact/terms",
+          "/en/contactus",
+          "/en/investment/finance/01",
+          "/en/investment/governance01",
+          "/en/investment/irData",
+          "/en/management/esg_strategy",
+          "/en/management/ethics_canon",
+          "/en/management/human-rights",
+          "/en/management/society",
+          "/en/mediacenter/news",
+          "/en/mediacenter/news/detail",
+          "/en/mediacenter/prvideo",
+          "/en/products/compact/item_01",
+          "/en/products/compact/item_02",
+          "/en/products/compact/item_03",
+          "/en/products/compact/item_04",
+          "/en/products/compact/item_05",
+          "/en/products/compact/item_06",
+          "/en/products/compact/item_07",
+          "/en/products/compact/item_08",
+          "/en/products/compact/item_09",
+          "/en/products/compact/item_10",
+          "/en/products/compact/list",
+          "/en/products/industrial/item_01",
+          "/en/products/industrial/item_02",
+          "/en/products/industrial/item_03",
+          "/en/products/industrial/item_05",
+          "/en/products/industrial/item_09",
+          "/en/products/industrial/list",
+          "/en/products/portable/item_01",
+          "/en/products/portable/item_02",
+          "/en/products/portable/item_03",
+          "/en/products/portable/item_05",
+          "/en/products/portable/list",
+          "/en/products/portable/list.html"
+        ]
+      }
+    ],
+    "detail": "uncaptured first-level targets: en 43"
+  },
+  "dynamicSurface": {
+    "pages": 2,
+    "pagesWithSameSiteData": 2,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 0,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "analytics.google.com",
+        "path": "/g/collect",
+        "query": [
+          "_ee",
+          "_eu",
+          "_fv",
+          "_gaz",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ec_mode",
+          "ecid",
+          "en",
+          "frm",
+          "gaf",
+          "gcd",
+          "gtm",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://analytics.google.com/g/collect",
+        "pages": 2,
+        "examples": [
+          "en",
+          "en-management-esg-result"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.doosanbobcat.com",
+        "path": "/cdn-cgi/rum",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.doosanbobcat.com/cdn-cgi/rum",
+        "pages": 2,
+        "examples": [
+          "en",
+          "en-management-esg-result"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "static.cloudflareinsights.com",
+        "pages": 2,
+        "examples": [
+          "en",
+          "en-management-esg-result"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 2,
+        "examples": [
+          "en",
+          "en-management-esg-result"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 2,
+        "examples": [
+          "en",
+          "en-management-esg-result"
+        ]
+      }
+    ],
+    "formTargets": []
+  },
+  "visionCheck": [
+    {
+      "slug": "en",
+      "verdict": "ok",
+      "notes": "hero video rendered; rest of the screenshot blank because the page is a jquery.fullpage.js scroller (sections transform-positioned, body overflow hidden) — DOM capture complete (19 headings, 51 body paragraphs)"
+    },
+    {
+      "slug": "en-management-esg-result",
+      "verdict": "ok",
+      "notes": "banner photo, tabs, diagrams and footer all rendered"
+    }
+  ],
+  "siblingCandidates": [
+    {
+      "origin": "https://www.bobcat.com",
+      "confidence": "low",
+      "evidence": "header Request a quote link",
+      "decision": "excluded (different property, not same-site brand surface)"
+    }
+  ]
+}

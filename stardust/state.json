@@ -1,0 +1,136 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "writtenAt": "2026-11-02T23:23:00Z",
+    "stardustVersion": "0.36.0"
+  },
+  "site": {
+    "originUrl": "https://www.doosanbobcat.com",
+    "deployUrl": null,
+    "extractedAt": "2026-11-02T21:17:29.611Z",
+    "pageCap": null,
+    "totalDiscovered": 2,
+    "crawled": 2,
+    "captureGaps": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 44,
+        "uncaptured": [
+          "/en/about/brand",
+          "/en/about/ci",
+          "/en/about/global",
+          "/en/about/history",
+          "/en/about/member",
+          "/en/about/vision",
+          "/en/contact/legal",
+          "/en/contact/privacy",
+          "/en/contact/terms",
+          "/en/contactus",
+          "/en/investment/finance/01",
+          "/en/investment/governance01",
+          "/en/investment/irData",
+          "/en/management/esg_strategy",
+          "/en/management/ethics_canon",
+          "/en/management/human-rights",
+          "/en/management/society",
+          "/en/mediacenter/news",
+          "/en/mediacenter/news/detail",
+          "/en/mediacenter/prvideo",
+          "/en/products/compact/item_01",
+          "/en/products/compact/item_02",
+          "/en/products/compact/item_03",
+          "/en/products/compact/item_04",
+          "/en/products/compact/item_05",
+          "/en/products/compact/item_06",
+          "/en/products/compact/item_07",
+          "/en/products/compact/item_08",
+          "/en/products/compact/item_09",
+          "/en/products/compact/item_10",
+          "/en/products/compact/list",
+          "/en/products/industrial/item_01",
+          "/en/products/industrial/item_02",
+          "/en/products/industrial/item_03",
+          "/en/products/industrial/item_05",
+          "/en/products/industrial/item_09",
+          "/en/products/industrial/list",
+          "/en/products/portable/item_01",
+          "/en/products/portable/item_02",
+          "/en/products/portable/item_03",
+          "/en/products/portable/item_05",
+          "/en/products/portable/list",
+          "/en/products/portable/list.html"
+        ]
+      }
+    ]
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-02T21:17:29.611Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "en",
+      "url": "https://www.doosanbobcat.com/en",
+      "title": "Doosan Bobcat",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-02T21:16:45.276Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-02T22:31:51Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-02T22:31:51Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-02T23:23:00Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en.json",
+      "prototypePath": "stardust/prototypes/en-proposed.html",
+      "migratedPath": "stardust/migrated/en/index.html"
+    },
+    {
+      "slug": "en-management-esg-result",
+      "url": "https://www.doosanbobcat.com/en/management/esg_result",
+      "title": "Highlights : ESG : Sustainability : Doosan Bobcat",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-02T21:16:48.715Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-02T22:00:41Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-02T22:00:41Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-02T23:23:00Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-management-esg-result.json",
+      "prototypePath": "stardust/prototypes/en-management-esg-result-proposed.html",
+      "migratedPath": "stardust/migrated/en/management/esg_result/index.html"
+    }
+  ]
+}

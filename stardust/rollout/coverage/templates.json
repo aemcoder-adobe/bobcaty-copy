@@ -1,0 +1,53 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-02T22:34:52.120Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-02T23:32:00.786Z",
+  "templates": [
+    {
+      "id": "en",
+      "representativeSlug": "en",
+      "pages": [
+        "en"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "home-company",
+        "home-esg",
+        "home-news",
+        "home-products",
+        "home-visual"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-management-esg-result",
+      "representativeSlug": "en-management-esg-result",
+      "pages": [
+        "en-management-esg-result"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "esg-result",
+        "sub-top"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

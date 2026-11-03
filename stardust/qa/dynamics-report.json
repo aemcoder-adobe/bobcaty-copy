@@ -1,0 +1,106 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-02T23:30:35.799Z",
+  "origin": "https://main--f1157cd0--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json"
+ },
+ "results": [
+  {
+   "feature": "header search form",
+   "id": "f-header-search",
+   "class": "F",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × header form (min 1)",
+   "thirdParty": "",
+   "ms": 2387,
+   "environmentLimit": null
+  },
+  {
+   "feature": "home hero autoplay video carousel",
+   "id": "m-hero-video-carousel",
+   "class": "M",
+   "status": "done",
+   "type": "video-plays",
+   "pass": true,
+   "detail": "iframe/video: false · video playing (Δt 0.81s)",
+   "thirdParty": "",
+   "ms": 7947,
+   "environmentLimit": null
+  },
+  {
+   "feature": "home hero autoplay video carousel",
+   "id": "m-hero-video-carousel",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × .home-visual .mvisual-pagination li (min 3)",
+   "thirdParty": "",
+   "ms": 2469,
+   "environmentLimit": null
+  },
+  {
+   "feature": "home section-at-a-time scroller",
+   "id": "x-fullpage-scroller",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "6 × #fp-nav li, .fp-nav li, [class*='fp-nav'] li (min 3)",
+   "thirdParty": "",
+   "ms": 2345,
+   "environmentLimit": null
+  },
+  {
+   "feature": "home product card carousel",
+   "id": "x-product-swiper",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × .product-card-swiper li.swiper-slide (min 3)",
+   "thirdParty": "",
+   "ms": 2428,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header mega menu + drawer",
+   "id": "x-header-megamenu",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "5 × header ul.gnb > li (min 3)",
+   "thirdParty": "",
+   "ms": 2157,
+   "environmentLimit": null
+  },
+  {
+   "feature": "ESG results tab bar",
+   "id": "x-esg-tabs",
+   "class": "X",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × nav.sub-tab a (min 2)",
+   "thirdParty": "",
+   "ms": 2229,
+   "environmentLimit": null
+  },
+  {
+   "feature": "no uncaught errors",
+   "id": "page-errors",
+   "class": "X",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 2 page(s)",
+   "thirdParty": "",
+   "ms": 4499,
+   "environmentLimit": null
+  }
+ ]
+}

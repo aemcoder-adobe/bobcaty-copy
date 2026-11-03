@@ -1,0 +1,43 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-02T22:34:52.120Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.doosanbobcat.com/en",
+    "da": {
+      "org": "aemcoder",
+      "site": "f1157cd0",
+      "ref": "main"
+    },
+    "liveHost": "main--f1157cd0--aemcoder.aem.live",
+    "site": "f1157cd0",
+    "previewHost": "main--f1157cd0--aemcoder.aem.page"
+  },
+  "scope": {
+    "pages": 2,
+    "discovered": 2,
+    "capped": false,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-02T23:32:00.786Z",
+    "pages": {
+      "total": 2,
+      "verified": 2,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 7,
+      "converted": 7,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

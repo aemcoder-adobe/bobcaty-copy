@@ -1,0 +1,381 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-02T21:20:28.708Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.doosanbobcat.com/en",
+   "https://www.doosanbobcat.com/en/management/esg_result"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/en": {
+   "url": "https://www.doosanbobcat.com/en",
+   "status": 200,
+   "host": "www.doosanbobcat.com",
+   "title": "Doosan Bobcat",
+   "forms": [
+    {
+     "name": "",
+     "action": "https://www.doosanbobcat.com/en/search/result",
+     "method": "post",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:headerKeyword"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": true
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://www.bobcat.com/na/en/buying-tools/build-quote",
+     "https://www.bobcat.com/na/en/dealer",
+     "https://www.doosanbobcat.com/kr",
+     "https://www.doosan.com/kr",
+     "https://www.bobcat.com/na/en"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [
+    {
+     "cls": "swiper-wrapper",
+     "cards": 3,
+     "sameSite": 3,
+     "hasDate": false
+    }
+   ],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 3449,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.doosanbobcat.com": 65,
+    "static.cloudflareinsights.com": 1,
+    "www.googletagmanager.com": 1,
+    "analytics.google.com": 2,
+    "stats.g.doubleclick.net": 1
+   },
+   "thirdPartyHosts": [
+    "static.cloudflareinsights.com",
+    "www.googletagmanager.com",
+    "analytics.google.com",
+    "stats.g.doubleclick.net"
+   ],
+   "scripts": [
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "https://www.doosanbobcat.com/common/js/jquery-circle-progress.js",
+    "https://www.doosanbobcat.com/common/js/common.js",
+    "https://www.doosanbobcat.com/common/js/main.js",
+    "https://www.doosanbobcat.com/common/js/jquery-3.6.0.min.js",
+    "https://www.doosanbobcat.com/common/js/swiper-4.5.1.min.js",
+    "https://www.doosanbobcat.com/common/js/jquery.fullpage.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-79B56GM0LZ"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "www.doosanbobcat.com",
+     "path": "/cdn-cgi/rum",
+     "query": [],
+     "status": 204,
+     "contentType": "text/plain",
+     "example": "https://www.doosanbobcat.com/cdn-cgi/rum"
+    }
+   ],
+   "thirdPartyXhr": [
+    "POST analytics.google.com/g/collect"
+   ],
+   "postBodies": [
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-79B56GM0LZ&gtm=45je6at0v896780626za208zd896780626xf1&_p=1793654430521&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=58039020&_eu=AAAAAGA&cid=1269590509.1793",
+     "body": ""
+    },
+    {
+     "url": "https://www.doosanbobcat.com/cdn-cgi/rum?",
+     "body": "{\"startTime\":1793654428920,\"pageloadId\":\"d57c2312-fb59-4f71-bd60-7c6c9c0f39a5\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://www.doosanbobcat.com/en\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"156\",\"bv\":\"156\"},\"memory\":{\"totalJSHeapSize\":15176336,\"usedJSHeapSize\":8397436,\"jsHeapSizeLimit\":4395630592},\"firstPaint\":1716,\"firstContentfulPaint\":1716,\"timin"
+    },
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-79B56GM0LZ&gtm=45je6at0v896780626za200zd896780626xf1&_p=1793654430521&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=58039020&_eu=AEAAAGQ&ae=a&cid=1269590509.179365",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 3449,
+   "mainEmptyAtLoad": false
+  },
+  "/en/management/esg_result": {
+   "url": "https://www.doosanbobcat.com/en/management/esg_result",
+   "status": 200,
+   "host": "www.doosanbobcat.com",
+   "title": "Highlights : ESG : Sustainability : Doosan Bobcat",
+   "forms": [
+    {
+     "name": "",
+     "action": "https://www.doosanbobcat.com/en/search/result",
+     "method": "post",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:headerKeyword"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": true
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 1
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://www.bobcat.com/na/en/buying-tools/build-quote",
+     "https://www.bobcat.com/na/en/dealer",
+     "https://www.doosanbobcat.com/kr/management/esg_result",
+     "https://www.bobcat.com/na/en",
+     "https://www.doosanportablepower.com/ap/en"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 5175,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.doosanbobcat.com": 65,
+    "static.cloudflareinsights.com": 1,
+    "www.googletagmanager.com": 1,
+    "analytics.google.com": 1,
+    "stats.g.doubleclick.net": 1
+   },
+   "thirdPartyHosts": [
+    "static.cloudflareinsights.com",
+    "www.googletagmanager.com",
+    "analytics.google.com",
+    "stats.g.doubleclick.net"
+   ],
+   "scripts": [
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "https://www.doosanbobcat.com/common/js/jquery-circle-progress.js",
+    "https://www.doosanbobcat.com/common/js/swiper-4.5.1.min.js",
+    "https://www.doosanbobcat.com/common/js/jquery.fullpage.js",
+    "https://www.doosanbobcat.com/common/js/jquery-3.6.0.min.js",
+    "https://www.doosanbobcat.com/common/js/splitting.min.js",
+    "https://www.doosanbobcat.com/common/js/common.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-79B56GM0LZ"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "www.doosanbobcat.com",
+     "path": "/cdn-cgi/rum",
+     "query": [],
+     "status": 204,
+     "contentType": "text/plain",
+     "example": "https://www.doosanbobcat.com/cdn-cgi/rum"
+    }
+   ],
+   "thirdPartyXhr": [
+    "POST analytics.google.com/g/collect"
+   ],
+   "postBodies": [
+    {
+     "url": "https://analytics.google.com/g/collect?v=2&tid=G-79B56GM0LZ&gtm=45je6at0h1v896780626za208zd896780626xf1&_p=1793654443223&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=471648338&_eu=AAAAAGA&cid=1167405261.1",
+     "body": ""
+    },
+    {
+     "url": "https://www.doosanbobcat.com/cdn-cgi/rum?",
+     "body": "{\"startTime\":1793654442090,\"pageloadId\":\"58a12457-6063-4668-844b-40026a291b06\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://www.doosanbobcat.com/en/management/esg_result\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"156\",\"bv\":\"156\"},\"memory\":{\"totalJSHeapSize\":10735122,\"usedJSHeapSize\":7162182,\"jsHeapSizeLimit\":4395630592},\"firstPaint\":1312,\"firstConten"
+    }
+   ],
+   "textAtLoad": 5175,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "f-form-text-headerkeyword-origin-en-search-result-1-fields",
+   "class": "F",
+   "feature": "form \"text:headerKeyword\" → origin /en/search/result (1 fields)",
+   "signature": [
+    "text:headerKeyword"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:headerKeyword"
+   ],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-na-na-kr-kr-na",
+   "class": "I18N",
+   "feature": "locale variants na,na,kr,kr,na",
+   "hint": "locale",
+   "evidence": [
+    "https://www.bobcat.com/na/en/buying-tools/build-quote",
+    "https://www.bobcat.com/na/en/dealer",
+    "https://www.doosanbobcat.com/kr"
+   ],
+   "pages": [
+    "/en"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-na-na-kr-na-ap",
+   "class": "I18N",
+   "feature": "locale variants na,na,kr,na,ap",
+   "hint": "locale",
+   "evidence": [
+    "https://www.bobcat.com/na/en/buying-tools/build-quote",
+    "https://www.bobcat.com/na/en/dealer",
+    "https://www.doosanbobcat.com/kr/management/esg_result"
+   ],
+   "pages": [
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-static-cloudflareinsights-com",
+   "class": "T",
+   "feature": "unknown third-party host static.cloudflareinsights.com",
+   "hint": "inspect",
+   "evidence": [
+    "static.cloudflareinsights.com"
+   ],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "role": "analytics: Google Analytics / Ads",
+   "hint": "tags",
+   "evidence": [
+    "analytics.google.com"
+   ],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "stats.g.doubleclick.net"
+   ],
+   "pages": [
+    "/en",
+    "/en/management/esg_result"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 2,
+  "of": 2,
+  "endpoints": {
+   "POST www.doosanbobcat.com/cdn-cgi/rum": 2,
+   "POST analytics.google.com/g/collect": 2
+  },
+  "searchFormPages": 0,
+  "formPages": 0,
+  "triggerPages": {}
+ }
+}

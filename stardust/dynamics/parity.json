@@ -1,0 +1,23 @@
+{
+  "_provenance": { "writtenBy": "stardust:rollout/D2-dynamic", "writtenAt": "2026-11-02T23:32:00Z" },
+  "features": [
+    { "id": "a-cms-app-settings-object-datalayer", "feature": "dataLayer settings object", "class": "A", "status": "static-snapshot", "checks": [] },
+    { "id": "f-header-search", "feature": "header search form", "class": "F", "status": "interim", "owner": "search backend on the new host", "checks": [
+      { "type": "dom-count", "path": "/en/management/esg-result", "selector": "header form", "min": 1 } ] },
+    { "id": "i18n-locale-variants", "feature": "locale + related-site links", "class": "I18N", "status": "interim", "owner": "locale-tree scope", "checks": [] },
+    { "id": "t-tags", "feature": "tags (GTM, GA, ad pixel, Cloudflare insights)", "class": "T", "status": "interim", "owner": "which tags run on the new host", "checks": [] },
+    { "id": "m-hero-video-carousel", "feature": "home hero autoplay video carousel", "class": "M", "status": "done", "checks": [
+      { "type": "video-plays", "path": "/en", "videoSelector": ".home-visual .slide-active video" },
+      { "type": "dom-count", "path": "/en", "selector": ".home-visual .mvisual-pagination li", "min": 3 } ] },
+    { "id": "x-fullpage-scroller", "feature": "home section-at-a-time scroller", "class": "X", "status": "done", "checks": [
+      { "type": "dom-count", "path": "/en", "selector": "#fp-nav li, .fp-nav li, [class*='fp-nav'] li", "min": 3 } ] },
+    { "id": "x-product-swiper", "feature": "home product card carousel", "class": "X", "status": "done", "checks": [
+      { "type": "dom-count", "path": "/en", "selector": ".product-card-swiper li.swiper-slide", "min": 3 } ] },
+    { "id": "x-header-megamenu", "feature": "header mega menu + drawer", "class": "X", "status": "done", "checks": [
+      { "type": "dom-count", "path": "/en/management/esg-result", "selector": "header ul.gnb > li", "min": 3 } ] },
+    { "id": "x-esg-tabs", "feature": "ESG results tab bar", "class": "X", "status": "done", "checks": [
+      { "type": "dom-count", "path": "/en/management/esg-result", "selector": "nav.sub-tab a", "min": 2 } ] },
+    { "id": "page-errors", "feature": "no uncaught errors", "class": "X", "status": "done", "checks": [
+      { "type": "no-page-errors", "paths": ["/en", "/en/management/esg-result"] } ] }
+  ]
+}

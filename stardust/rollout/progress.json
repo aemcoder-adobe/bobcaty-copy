@@ -1,0 +1,145 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "en",
+        "en-management-esg-result"
+      ],
+      "pages": 0,
+      "blocks": 2,
+      "gates": {
+        "note": "no shell page exists before the archetypes deploy (2-page roster); the header/footer published gate (pixel both widths, crop-compare bands, chrome-parity) runs on each archetype unit against the preview URL",
+        "renderCheck": "preview /nav at 1440/1920: header+footer render, menu hover ok, fonts ok, 0 page errors"
+      },
+      "startedAt": "2026-11-02T22:35:11Z",
+      "endedAt": "2026-11-02T22:49:16.602Z",
+      "verdict": "foundation: files 46, lint ok, pushed c2a8cb0, nav/footer published yes"
+    },
+    "archetype-landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "en"
+      ],
+      "pages": 1,
+      "blocks": 5,
+      "gates": {
+        "360": {
+          "archetype": "1.76%",
+          "dh": 0
+        },
+        "1440": {
+          "archetype": "0.53%",
+          "dh": 0
+        },
+        "clipped": 0,
+        "missing": 0,
+        "crop": "header 100%/100%, footer 99.76%/98.57% (1440/360)",
+        "chrome": "1440: 11 deltas, 360: 8 (header box, 3 footer link weights/colour, copyright year span) — queued as foundation requests"
+      },
+      "startedAt": "2026-11-02T22:50:04.612Z",
+      "endedAt": "2026-11-02T23:18:01.951Z",
+      "verdict": "archetype-landing: pages 1/1 live, blocks 5 (+1 widget), gate 1440 0.53% Δh 0 / 360 1.76% Δh 0, clipped 0, missing 0, crop header 100%/100% footer 99.76%/98.57%, chrome 11/8, requests 4"
+    },
+    "archetype-static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "en-management-esg-result"
+      ],
+      "pages": 1,
+      "blocks": 2,
+      "gates": {
+        "360": {
+          "archetype": "5.88%",
+          "dh": -23
+        },
+        "1440": {
+          "archetype": "2.1%",
+          "dh": -4
+        },
+        "clipped": 0,
+        "missing": 0,
+        "crop": "header 100%/100%, footer 99.76%/98.57% (1440/360)",
+        "chrome": "68@1440 / 25@360, all frozen header/footer chrome (queued requests)"
+      },
+      "startedAt": "2026-11-02T22:50:04.612Z",
+      "endedAt": "2026-11-02T23:22:57.950Z",
+      "verdict": "archetype-static: pages 1/1 live, blocks 2, gate 1440 2.1% Δh -4 / 360 5.88% Δh -23, clipped 0, missing 0, crop header 100%/100% footer 99.76%/98.57%, chrome 68/25, requests 1"
+    },
+    "cluster-landing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "en"
+      ],
+      "pages": 0,
+      "blocks": 0,
+      "gates": {
+        "note": "no siblings in the 2-page plan; archetype gate row covers the template"
+      },
+      "startedAt": "2026-11-02T23:23:10.237Z",
+      "endedAt": "2026-11-02T23:23:10.237Z",
+      "verdict": "cluster-landing: pages 0/0 (archetype only), blocks 0, gate n/a, requests 0"
+    },
+    "cluster-static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "en-management-esg-result"
+      ],
+      "pages": 0,
+      "blocks": 0,
+      "gates": {
+        "note": "no siblings in the 2-page plan; archetype gate row covers the template"
+      },
+      "startedAt": "2026-11-02T23:23:17.159Z",
+      "endedAt": "2026-11-02T23:23:17.159Z",
+      "verdict": "cluster-static: pages 0/0 (archetype only), blocks 0, gate n/a, requests 0"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "en",
+        "en-management-esg-result"
+      ],
+      "pages": 2,
+      "blocks": 0,
+      "gates": {
+        "360": {
+          "en": "1.72% Δh0",
+          "esg": "5.87% Δh-23"
+        },
+        "1440": {
+          "en": "0.51% Δh0",
+          "esg": "2.09% Δh-4"
+        },
+        "clipped": 0,
+        "missing": 0
+      },
+      "startedAt": "2026-11-02T23:26:01.931Z",
+      "endedAt": "2026-11-02T23:27:36.301Z",
+      "verdict": "gate-all: 2/2 PASS at 1440 and 360 on aem.live (after C-final foundation requests), clipped 0, missing 0"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "en",
+        "en-management-esg-result"
+      ],
+      "pages": 2,
+      "blocks": 7,
+      "gates": {
+        "freeze": "check ok, refrozen after requests",
+        "requests": "3 applied, 2 documented no-change"
+      },
+      "startedAt": "2026-11-02T23:27:52.962Z",
+      "endedAt": "2026-11-02T23:27:52.962Z",
+      "verdict": "final: 2/2 pages live, foundation requests applied once, gate-all 2/2 PASS"
+    }
+  }
+}

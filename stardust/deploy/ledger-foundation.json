@@ -1,0 +1,29 @@
+{
+  "/footer-home": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-02T22:47:31.985Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-02T22:47:37.180Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-02T22:47:41.075Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

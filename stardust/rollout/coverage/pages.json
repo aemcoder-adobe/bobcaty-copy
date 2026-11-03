@@ -1,0 +1,104 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-02T22:34:52.120Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-02T23:32:00.786Z",
+  "pages": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "title": "Doosan Bobcat",
+      "templateId": "en",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/index.html",
+        "metaJson": "stardust/migrated/en/_meta.json",
+        "sourceHash": "sha256:c5993de7d518515fbab292d6431846cece8560da69e8df7f531297c078137005",
+        "sourceUrl": "https://www.doosanbobcat.com/en"
+      },
+      "blocks": [
+        "home-visual",
+        "home-company",
+        "home-products",
+        "home-esg",
+        "home-news"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--f1157cd0--aemcoder.aem.live/en",
+        "deployedAt": "2026-11-02T23:17:27.169Z",
+        "verifiedAt": "2026-11-02T23:32:00.786Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.72,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 3,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-02T23:27:36.244Z"
+        }
+      }
+    },
+    {
+      "slug": "en-management-esg-result",
+      "path": "/en/management/esg-result",
+      "title": "Highlights : ESG : Sustainability : Doosan Bobcat",
+      "templateId": "en-management-esg-result",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/management/esg_result/index.html",
+        "metaJson": "stardust/migrated/en/management/esg_result/_meta.json",
+        "sourceHash": "sha256:b3e9fa8dd47c0f3ab6f4660cdcd9ea4b2b51feeda92628a166bb470e3a1e457f",
+        "sourceUrl": "https://www.doosanbobcat.com/en/management/esg_result"
+      },
+      "blocks": [
+        "sub-top",
+        "esg-result"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--f1157cd0--aemcoder.aem.live/en/management/esg-result",
+        "deployedAt": "2026-11-02T23:22:12.295Z",
+        "verifiedAt": "2026-11-02T23:31:47.434Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.87,
+          "heightDelta": -23,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-02T23:27:36.244Z"
+        }
+      },
+      "sourcePath": "/en/management/esg_result"
+    }
+  ]
+}

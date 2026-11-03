@@ -1,0 +1,320 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-02T21:30:00Z",
+    "mode": "prep",
+    "sources": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/assets/css/*.css",
+      "stardust/current/pages/*.json"
+    ]
+  },
+  "name": "Doosan Bobcat (current)",
+  "colors": {
+    "white": "#ffffff",
+    "ink": "#232323",
+    "text-muted": "#666666",
+    "border": "#dddddd",
+    "brand-blue": "#005eb8",
+    "text-subtle": "#999999",
+    "ink-mid": "#333333",
+    "black": "#000000",
+    "blue-tint-1": "#9cc4ec",
+    "blue-tint-2": "#c6d5e5",
+    "blue-tint-3": "#dce6f1",
+    "overlay-white-30": "#ffffff4d"
+  },
+  "typography": {
+    "display": {
+      "fontFamily": "Pretendard, 'Noto Sans KR', 'Malgun Gothic', dotum, sans-serif",
+      "fontSize": "6rem",
+      "fontWeight": 700,
+      "lineHeight": 1.1666
+    },
+    "section-title": {
+      "fontFamily": "Pretendard, 'Noto Sans KR', sans-serif",
+      "fontSize": "5rem",
+      "fontWeight": 700,
+      "lineHeight": 1
+    },
+    "lede": {
+      "fontFamily": "Pretendard, 'Noto Sans KR', sans-serif",
+      "fontSize": "2.4rem",
+      "fontWeight": 400,
+      "lineHeight": 1.5833
+    },
+    "body": {
+      "fontFamily": "Pretendard, 'Noto Sans KR', sans-serif",
+      "fontSize": "1.8rem",
+      "fontWeight": 400,
+      "lineHeight": 1.555
+    }
+  },
+  "rounded": {
+    "pill": "50%",
+    "card": "70px"
+  },
+  "spacing": {
+    "root-font-size": "62.5% (10px) ≥1471, 58% ≤1470, 55% ≤1240, 53% ≤767"
+  },
+  "components": {},
+  "extensions": {
+    "rootFontScale": {
+      "default": "62.5%",
+      "max-1470": "58%",
+      "max-1240": "55%",
+      "max-767": "53%"
+    },
+    "sourceBreakpoints": [
+      1470,
+      1240,
+      1180,
+      767,
+      600
+    ],
+    "shadows": [
+      "rgba(14,23,32,0.13) 5px 9px 15px 0px",
+      "rgba(0,0,0,0.1) 1px 2px 30px 0px"
+    ],
+    "fonts": [
+      {
+        "family": "Pretendard",
+        "weights": [
+          400,
+          500,
+          600,
+          700
+        ],
+        "license": "OFL-1.1",
+        "files": "stardust/current/assets/fonts/Pretendard-*.woff2"
+      },
+      {
+        "family": "Noto Sans KR",
+        "weights": [
+          300,
+          400,
+          500,
+          700
+        ],
+        "license": "OFL-1.1",
+        "files": "stardust/current/assets/fonts/notokr-*.woff"
+      }
+    ],
+    "motifs": {
+      "homeScroller": "jquery.fullpage.js full-viewport section scroller on the home page; swiper 4.5.1 carousels (hero video fade, product cards)"
+    },
+    "voice": {
+      "heroHeadline": "Be the First Choice for All Groundbreakers",
+      "ctas": [
+        "History of Doosan Bobcat",
+        "Learn more",
+        "More News"
+      ]
+    },
+    "modules": [
+      {
+        "name": "site-header",
+        "status": "candidate",
+        "instances": [
+          "en",
+          "en-management-esg-result"
+        ]
+      },
+      {
+        "name": "site-footer",
+        "status": "candidate",
+        "instances": [
+          "en",
+          "en-management-esg-result"
+        ]
+      }
+    ],
+    "breakpoints": {
+      "containerMaxWidth": "1500px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1500,
+          "via": "max-width",
+          "selector": "#fullpage > section.section.visual_section > div.fp-tableCell > div.textbox.inner",
+          "pages": [
+            "https://www.doosanbobcat.com/en",
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1321,
+          "via": "max-width",
+          "selector": "div.esg_result_new_01 > div.inner.con_ani > article.arti_02.con_ani > div.map",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1140,
+          "via": "max-width",
+          "selector": "div.fp-tableCell > div.esg_wrap > div.keyword_wrap > ul.keyword_list",
+          "pages": [
+            "https://www.doosanbobcat.com/en"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 904,
+          "via": "max-width",
+          "selector": "section.section.news_section > div.fp-tableCell > div.section_cont.inner > div.media",
+          "pages": [
+            "https://www.doosanbobcat.com/en",
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 663,
+          "via": "max-width",
+          "selector": "div.inner.con_ani > article.arti_02.con_ani > div.map > div.circle",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 550,
+          "via": "other",
+          "selector": "div.inner > div.item_wrap > div.sm_item_wrap > div.sm_item.sm_item_01",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 500,
+          "via": "max-width",
+          "selector": "div.esg_result_sec03 > article.arti_01.con_ani > div.inner > div.item_wrap",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 476,
+          "via": "max-width",
+          "selector": "section.section.news_section > div.fp-tableCell > div.section_cont.inner > div.youtube",
+          "pages": [
+            "https://www.doosanbobcat.com/en",
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 388,
+          "via": "fixed",
+          "selector": "#esg_result_new_pw > div.esg_result_new_03 > div.inner.con_ani > span.txt-info",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 349,
+          "via": "fixed",
+          "selector": "div.pro-wrap > div.pro-02 > p > span",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 326,
+          "via": "other",
+          "selector": "div.pro-02 > ol > li > span",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 294,
+          "via": "fixed",
+          "selector": "div.esg-eval-link > div.esg-eval-link-bg > a > span",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 268,
+          "via": "fixed",
+          "selector": "article.arti_02.con_ani > div.map > ul > li",
+          "pages": [
+            "https://www.doosanbobcat.com/en/management/esg_result"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 0,
+          "selector": "#fullpage > section.section.visual_section",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 1,
+          "selector": "#fullpage > section.section.company_section",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 2,
+          "selector": "#fullpage > section.section.product_section",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 3,
+          "selector": "#fullpage > section.section.esg_section",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 4,
+          "selector": "#fullpage > section.section.news_section",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en",
+          "section": 5,
+          "selector": "#fullpage > section.section.fp-auto-height",
+          "px": null
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en/management/esg_result",
+          "section": 0,
+          "selector": "#main > section.sub_top",
+          "px": 1500
+        },
+        {
+          "url": "https://www.doosanbobcat.com/en/management/esg_result",
+          "section": 1,
+          "selector": "#esg_result",
+          "px": 1500
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-02T21:19:00.043Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.doosanbobcat.com/en",
+          "https://www.doosanbobcat.com/en/management/esg_result"
+        ]
+      }
+    }
+  }
+}

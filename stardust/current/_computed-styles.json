@@ -1,0 +1,4637 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-02T21:18:25.957Z",
+    "script": "style-census.mjs",
+    "readArtifacts": [
+      "https://www.doosanbobcat.com/en/management/esg_result",
+      "https://www.doosanbobcat.com/en"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+    "synthesizedInputs": [],
+    "failed": []
+  },
+  "pages": {
+    "https://www.doosanbobcat.com/en/management/esg_result": {
+      "360": {
+        "title": "Highlights : ESG : Sustainability : Doosan Bobcat",
+        "viewport": {
+          "width": 360,
+          "height": 900
+        },
+        "elements": {
+          "total": 583,
+          "visible": 325
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "DOOSAN",
+            "selector": "#header > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.61056px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "menu",
+            "selector": "nav > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px",
+            "fontWeight": "700",
+            "lineHeight": "0px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h1",
+            "text": "Doosan Bobcat",
+            "selector": "#header > div > h1",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.136px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "ESG",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "25.44px",
+            "fontWeight": "600",
+            "lineHeight": "35.616px",
+            "letterSpacing": "-0.7632px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "EHS Risk Management",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h4",
+            "text": "Human Rights Management",
+            "selector": "#esg_result > div > div:nth-of-type(4) > div > h4",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "23.744px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.71232px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Supplier ESG Management and Assessment",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Social Responsibility",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > article > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Strengthening ESG Decision-Making Frame…",
+            "selector": "#esg_result_new_dt > div:nth-of-type(2) > div > div > div:nth-of-type(1) > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Fostering an Ethical Corporate Culture",
+            "selector": "#esg_result_new_dt > div:nth-of-type(2) > div > div > div:nth-of-type(2) > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Compliance",
+            "selector": "#esg_result > div > div:nth-of-type(7) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Whistle Blowing",
+            "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h2",
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.61056px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h3",
+            "text": "Related Sites",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "40.704px",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgba(160, 160, 160, 0.5)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat has established a global …",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "600",
+            "lineHeight": "23.04px",
+            "letterSpacing": "-0.576px",
+            "textTransform": "none",
+            "color": "rgb(35, 35, 35)"
+          },
+          {
+            "tag": "li",
+            "text": "Calculate Baseline Greenhouse Gas Emiss…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "li",
+            "text": "Establish a Global Greenhouse Gas Inven…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "li",
+            "text": "Conduct Business As Usual Scenario Anal…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "p",
+            "text": "Reviewed 2030 Reduction Scenario Based …",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15px",
+            "fontWeight": "800",
+            "lineHeight": "21px",
+            "letterSpacing": "-0.6px",
+            "textTransform": "none",
+            "color": "rgb(50, 50, 50)"
+          },
+          {
+            "tag": "p",
+            "text": "Set 2030 Global Scope 1&2 Greenhouse Ga…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.54px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat practices human rights ma…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(1) > div > article > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "14.4px",
+            "fontWeight": "600",
+            "lineHeight": "23.04px",
+            "letterSpacing": "-0.576px",
+            "textTransform": "none",
+            "color": "rgb(35, 35, 35)"
+          },
+          {
+            "tag": "p",
+            "text": "Workplace EHS Incident Management Proce…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "800",
+            "lineHeight": "27px",
+            "letterSpacing": "-0.72px",
+            "textTransform": "none",
+            "color": "rgb(51, 51, 51)"
+          },
+          {
+            "tag": "li",
+            "text": "Incident Intake/ Initial Reporting",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          },
+          {
+            "tag": "p",
+            "text": "Strengthening EHS Management",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "800",
+            "lineHeight": "27px",
+            "letterSpacing": "-0.72px",
+            "textTransform": "none",
+            "color": "rgb(51, 51, 51)"
+          },
+          {
+            "tag": "li",
+            "text": "Identify Improvements through Risk Asse…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ol > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          },
+          {
+            "tag": "li",
+            "text": "Integrate into Production Process",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ol > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "800",
+            "lineHeight": "24px",
+            "letterSpacing": "-0.64px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          }
+        ],
+        "buttons": [],
+        "links": [
+          {
+            "text": "ESG",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)",
+            "count": 1,
+            "color": "rgb(0, 94, 184)",
+            "textDecoration": "none",
+            "fontWeight": "500",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Human Rights Management",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(2)",
+            "count": 5,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Highlights",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+            "count": 2,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgb(0, 94, 184)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Supply Chain ESG Management Strategy",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+            "count": 2,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "800",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "#header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 68
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px 10.7969px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 720,
+              "y": 0,
+              "w": 252,
+              "h": 900
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "67.84px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 11,
+              "y": 254,
+              "w": 168,
+              "h": 19
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px"
+          },
+          {
+            "matched": "main",
+            "selector": "#main",
+            "rect": {
+              "x": 0,
+              "y": 51,
+              "w": 360,
+              "h": 7861
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#footer",
+            "rect": {
+              "x": 0,
+              "y": 7980,
+              "w": 360,
+              "h": 242
+            },
+            "backgroundColor": "rgb(23, 23, 23)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#main > section:nth-of-type(1)",
+            "rect": {
+              "x": 0,
+              "y": 51,
+              "w": 360,
+              "h": 443
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "67.84px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#esg_result",
+            "rect": {
+              "x": 0,
+              "y": 545,
+              "w": 360,
+              "h": 7367
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "50%",
+            "count": 3,
+            "area": 60706,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div",
+              "#footer > div > a > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "70px",
+            "count": 1,
+            "area": 23370,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div"
+            ]
+          },
+          {
+            "value": "29.68px",
+            "count": 1,
+            "area": 17216,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > div:nth-of-type(1)"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(14, 23, 32, 0.13) 5px 9px 15px 0px",
+            "count": 10,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 20,
+            "area": 554873,
+            "sources": [
+              "#header",
+              "nav",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(245, 245, 247)",
+            "count": 9,
+            "area": 606630,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(3)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 3,
+            "area": 56909,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div",
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div"
+            ]
+          },
+          {
+            "value": "rgb(23, 23, 23)",
+            "count": 2,
+            "area": 174026,
+            "sources": [
+              "#footer",
+              "#footer > div"
+            ]
+          },
+          {
+            "value": "rgb(227, 230, 233)",
+            "count": 2,
+            "area": 34501,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(4)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.5)",
+            "count": 1,
+            "area": 226800,
+            "sources": [
+              "nav > h2"
+            ]
+          },
+          {
+            "value": "rgb(250, 250, 250)",
+            "count": 1,
+            "area": 40619,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(4) > ul"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(102, 102, 102)",
+            "count": 35,
+            "sources": [
+              "nav > h2",
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 20,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(1) > a",
+              "nav > div > ul > li:nth-of-type(2) > a",
+              "nav > div > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(35, 35, 35)",
+            "count": 17,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p > span:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p > span:nth-of-type(2)",
+              "#esg_result_new_pw > div:nth-of-type(1) > div > article > p > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 13,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+              "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)",
+              "div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1) > span"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 13,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p",
+              "div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p > em"
+            ]
+          },
+          {
+            "value": "rgb(38, 38, 38)",
+            "count": 6,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1) > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(2) > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(3) > span"
+            ]
+          },
+          {
+            "value": "rgb(51, 51, 51)",
+            "count": 4,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div"
+            ]
+          },
+          {
+            "value": "rgb(0, 91, 172)",
+            "count": 3,
+            "sources": [
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > p",
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > p"
+            ]
+          },
+          {
+            "value": "rgb(160, 160, 160)",
+            "count": 2,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 2,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+              "#copyYear"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 1,
+            "sources": [
+              "#header > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(135, 135, 136)",
+            "count": 1,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(156, 196, 236)",
+            "count": 1,
+            "sources": [
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(50, 50, 50)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > p"
+            ]
+          },
+          {
+            "value": "rgb(85, 85, 85)",
+            "count": 1,
+            "sources": [
+              "#footer > div > a > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(221, 221, 221)",
+            "count": 11,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(3)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 10,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(198, 213, 229)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(220, 230, 241)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.35)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Noto Sans KR",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "600",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "nav > ul > li:nth-of-type(1) > a > img",
+            "src": "https://www.doosanbobcat.com/images/sub/ico_home.png",
+            "inlineSvg": false,
+            "alt": "HOME",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "/en/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 11,
+              "y": 257,
+              "w": 13,
+              "h": 11
+            }
+          }
+        ],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.doosanbobcat.com/en/management/esg_result"
+      },
+      "1440": {
+        "title": "Highlights : ESG : Sustainability : Doosan Bobcat",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elements": {
+          "total": 583,
+          "visible": 446
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "DOOSAN",
+            "selector": "#header > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22.6896px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.680688px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "menu",
+            "selector": "nav > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px",
+            "fontWeight": "700",
+            "lineHeight": "0px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h1",
+            "text": "Doosan Bobcat",
+            "selector": "#header > div > h1",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "30.2528px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.907584px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "ESG",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "46.4px",
+            "fontWeight": "600",
+            "lineHeight": "46.4px",
+            "letterSpacing": "-1.392px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "EHS Risk Management",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h4",
+            "text": "Human Rights Management",
+            "selector": "#esg_result > div > div:nth-of-type(4) > div > h4",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "37.12px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Supplier ESG Management and Assessment",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Social Responsibility",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > article > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Strengthening ESG Decision-Making Frame…",
+            "selector": "#esg_result_new_dt > div:nth-of-type(2) > div > div > div:nth-of-type(1) > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Fostering an Ethical Corporate Culture",
+            "selector": "#esg_result_new_dt > div:nth-of-type(2) > div > div > div:nth-of-type(2) > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Compliance",
+            "selector": "#esg_result > div > div:nth-of-type(7) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h5",
+            "text": "Whistle Blowing",
+            "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > h5",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-1.1136px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Products",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Company",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Investors",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(3) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Sustainability",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(4) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Media Center",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(5) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22.6896px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.680688px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h3",
+            "text": "Related Sites",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "14.848px",
+            "fontWeight": "400",
+            "lineHeight": "51.0474px",
+            "letterSpacing": "-0.44544px",
+            "textTransform": "none",
+            "color": "rgba(160, 160, 160, 0.5)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat has established a global …",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "lineHeight": "44px",
+            "letterSpacing": "-0.88px",
+            "textTransform": "none",
+            "color": "rgb(35, 35, 35)"
+          },
+          {
+            "tag": "li",
+            "text": "Calculate Baseline Greenhouse Gas Emiss…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "li",
+            "text": "Establish a Global Greenhouse Gas Inven…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "li",
+            "text": "Conduct Business As Usual Scenario Anal…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8px",
+            "textTransform": "none",
+            "color": "rgb(0, 94, 184)"
+          },
+          {
+            "tag": "p",
+            "text": "Reviewed 2030 Reduction Scenario Based …",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "23px",
+            "fontWeight": "800",
+            "lineHeight": "32.2px",
+            "letterSpacing": "-0.92px",
+            "textTransform": "none",
+            "color": "rgb(50, 50, 50)"
+          },
+          {
+            "tag": "p",
+            "text": "Set 2030 Global Scope 1&2 Greenhouse Ga…",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "800",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.9px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat practices human rights ma…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(1) > div > article > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "lineHeight": "44px",
+            "letterSpacing": "-0.88px",
+            "textTransform": "none",
+            "color": "rgb(35, 35, 35)"
+          },
+          {
+            "tag": "p",
+            "text": "Workplace EHS Incident Management Proce…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "800",
+            "lineHeight": "36px",
+            "letterSpacing": "-0.96px",
+            "textTransform": "none",
+            "color": "rgb(51, 51, 51)"
+          },
+          {
+            "tag": "li",
+            "text": "Incident Intake/ Initial Reporting",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "800",
+            "lineHeight": "33px",
+            "letterSpacing": "-0.88px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          },
+          {
+            "tag": "p",
+            "text": "Strengthening EHS Management",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "800",
+            "lineHeight": "36px",
+            "letterSpacing": "-0.96px",
+            "textTransform": "none",
+            "color": "rgb(51, 51, 51)"
+          },
+          {
+            "tag": "li",
+            "text": "Identify Improvements through Risk Asse…",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ol > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "800",
+            "lineHeight": "33px",
+            "letterSpacing": "-0.88px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          },
+          {
+            "tag": "li",
+            "text": "Integrate into Production Process",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ol > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "800",
+            "lineHeight": "33px",
+            "letterSpacing": "-0.88px",
+            "textTransform": "none",
+            "color": "rgb(38, 38, 38)"
+          }
+        ],
+        "buttons": [],
+        "links": [
+          {
+            "text": "ESG",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)",
+            "count": 1,
+            "color": "rgb(0, 94, 184)",
+            "textDecoration": "none",
+            "fontWeight": "500",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Human Rights Management",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(2)",
+            "count": 5,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Highlights",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+            "count": 2,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgb(0, 94, 184)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Supply Chain ESG Management Strategy",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+            "count": 2,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "800",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "#header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 93
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px 43.1875px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 2880,
+              "y": 0,
+              "w": 792,
+              "h": 900
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "92.8px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 1174,
+              "y": 200,
+              "w": 223,
+              "h": 51
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px"
+          },
+          {
+            "matched": "main",
+            "selector": "#main",
+            "rect": {
+              "x": 0,
+              "y": 107,
+              "w": 1440,
+              "h": 7091
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#footer",
+            "rect": {
+              "x": 0,
+              "y": 7328,
+              "w": 1440,
+              "h": 646
+            },
+            "backgroundColor": "rgb(23, 23, 23)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#main > section:nth-of-type(1)",
+            "rect": {
+              "x": 0,
+              "y": 107,
+              "w": 1440,
+              "h": 707
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "92.8px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#esg_result",
+            "rect": {
+              "x": 0,
+              "y": 916,
+              "w": 1440,
+              "h": 6283
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "50%",
+            "count": 9,
+            "area": 367768,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div",
+              "div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > p"
+            ]
+          },
+          {
+            "value": "70px",
+            "count": 1,
+            "area": 99450,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div"
+            ]
+          },
+          {
+            "value": "32.48px",
+            "count": 1,
+            "area": 38353,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > div:nth-of-type(1)"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(14, 23, 32, 0.13) 5px 9px 15px 0px",
+            "count": 10,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 20,
+            "area": 1731947,
+            "sources": [
+              "#header",
+              "nav",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(245, 245, 247)",
+            "count": 9,
+            "area": 1141603,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(3)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 3,
+            "area": 196260,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div",
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div"
+            ]
+          },
+          {
+            "value": "rgb(23, 23, 23)",
+            "count": 2,
+            "area": 1860930,
+            "sources": [
+              "#footer",
+              "#footer > div"
+            ]
+          },
+          {
+            "value": "rgb(227, 230, 233)",
+            "count": 2,
+            "area": 57784,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(4)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.5)",
+            "count": 1,
+            "area": 712800,
+            "sources": [
+              "nav > h2"
+            ]
+          },
+          {
+            "value": "rgb(250, 250, 250)",
+            "count": 1,
+            "area": 137759,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(4) > ul"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 56,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p",
+              "div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div > p > em"
+            ]
+          },
+          {
+            "value": "rgb(102, 102, 102)",
+            "count": 35,
+            "sources": [
+              "nav > h2",
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(35, 35, 35)",
+            "count": 22,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p > span:nth-of-type(1)",
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p > span:nth-of-type(2)",
+              "#esg_result_new_pw > div:nth-of-type(1) > div > article > p > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 20,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(1) > a",
+              "nav > div > ul > li:nth-of-type(2) > a",
+              "nav > div > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 13,
+            "sources": [
+              "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+              "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)",
+              "div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1) > span"
+            ]
+          },
+          {
+            "value": "rgb(38, 38, 38)",
+            "count": 6,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1) > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(2) > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(3) > span"
+            ]
+          },
+          {
+            "value": "rgb(51, 51, 51)",
+            "count": 4,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p > span",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div"
+            ]
+          },
+          {
+            "value": "rgb(0, 91, 172)",
+            "count": 3,
+            "sources": [
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > p",
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > p"
+            ]
+          },
+          {
+            "value": "rgb(160, 160, 160)",
+            "count": 2,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 2,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+              "#copyYear"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 1,
+            "sources": [
+              "#header > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(135, 135, 136)",
+            "count": 1,
+            "sources": [
+              "#esg_result_new_pw > div:nth-of-type(2) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(156, 196, 236)",
+            "count": 1,
+            "sources": [
+              "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(50, 50, 50)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > p"
+            ]
+          },
+          {
+            "value": "rgb(85, 85, 85)",
+            "count": 1,
+            "sources": [
+              "#footer > div > a > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(221, 221, 221)",
+            "count": 16,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(3)",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+              "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(2) > p"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 10,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)",
+              "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 6,
+            "sources": [
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(2) > h3",
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(3) > h3"
+            ]
+          },
+          {
+            "value": "rgb(198, 213, 229)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(220, 230, 241)",
+            "count": 1,
+            "sources": [
+              "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.35)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Noto Sans KR",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "600",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "nav > ul > li:nth-of-type(1) > a > img",
+            "src": "https://www.doosanbobcat.com/images/sub/ico_home.png",
+            "inlineSvg": false,
+            "alt": "HOME",
+            "ariaLabel": null,
+            "class": "",
+            "id": null,
+            "href": "/en/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 1174,
+              "y": 212,
+              "w": 19,
+              "h": 16
+            }
+          }
+        ],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.doosanbobcat.com/en/management/esg_result"
+      }
+    },
+    "https://www.doosanbobcat.com/en": {
+      "360": {
+        "title": "Doosan Bobcat",
+        "viewport": {
+          "width": 360,
+          "height": 900
+        },
+        "elements": {
+          "total": 580,
+          "visible": 230
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "DOOSAN",
+            "selector": "#header > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.61056px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "menu",
+            "selector": "nav > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px",
+            "fontWeight": "700",
+            "lineHeight": "0px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h1",
+            "text": "Doosan Bobcat",
+            "selector": "#header > div > h1",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.136px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "DOOSAN BOBCAT",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "25.44px",
+            "fontWeight": "700",
+            "lineHeight": "25.44px",
+            "letterSpacing": "-0.7632px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Products",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "25.44px",
+            "fontWeight": "700",
+            "lineHeight": "25.44px",
+            "letterSpacing": "-0.7632px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Compact Equipment",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.96px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.5088px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Material Handling",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.96px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.5088px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Portable Power",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.96px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.5088px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h2",
+            "text": "Sustainability",
+            "selector": "#fullpage > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "25.44px",
+            "fontWeight": "700",
+            "lineHeight": "25.44px",
+            "letterSpacing": "-0.7632px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Media Center",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "25.44px",
+            "fontWeight": "700",
+            "lineHeight": "25.44px",
+            "letterSpacing": "-0.7632px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "More News More Videos",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "18.656px",
+            "fontWeight": "600",
+            "lineHeight": "18.656px",
+            "letterSpacing": "-0.55968px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "YouTube",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.96px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.5088px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "20.352px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.61056px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h3",
+            "text": "Related Sites",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "40.704px",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgba(160, 160, 160, 0.5)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Be the First Choice for All Groundbreak…",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.136px",
+            "fontWeight": "700",
+            "lineHeight": "31.6569px",
+            "letterSpacing": "-0.81408px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat is dedicated to strengthe…",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "14.416px",
+            "fontWeight": "400",
+            "lineHeight": "22.8249px",
+            "letterSpacing": "-0.43248px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "As the inventor of the world's first sk…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "21.0982px",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "li",
+            "text": "We invented the original skid- steer lo…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We offer the most attachments (100+ cat…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We have 1500+ dealerships in North Amer…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(3)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We introduced the world's first all-ele…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(4)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat builds the most reliable …",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "li",
+            "text": "Compact Equipment Doosan Bobcat leads t…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat leads the industry in the…",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "22.048px",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "li",
+            "text": "Material Handling We emphasizes operato…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "p",
+            "text": "We emphasizes operator convenience, equ…",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px",
+            "fontWeight": "400",
+            "lineHeight": "22.048px",
+            "letterSpacing": "-0.40704px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Doosan Bobcat NA (North America)",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "count": 3,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(34, 34, 34)",
+            "borderRadius": "0px",
+            "padding": "8.48px 10.176px",
+            "border": "1px solid rgb(221, 221, 221)",
+            "borderColor": "rgb(221, 221, 221)",
+            "boxShadow": "none",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "12.72px",
+            "fontWeight": "500",
+            "textTransform": "none",
+            "letterSpacing": "-0.3816px",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(221, 221, 221)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "History of Doosan Bobcat",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(2) > a",
+            "count": 2,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Compact Equipment Doosan Bobcat leads t…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+            "count": 3,
+            "color": "rgb(34, 34, 34)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "borderColor": "rgb(221, 221, 221)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "More News",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a:nth-of-type(1)",
+            "count": 4,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Doosan Bobcat EMEA (Europe · Middle Eas…",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2)",
+            "count": 2,
+            "color": "rgb(34, 34, 34)",
+            "textDecoration": "none",
+            "fontWeight": "500",
+            "hover": null
+          },
+          {
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2 > a",
+            "count": 1,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          },
+          {
+            "text": "Suppliers",
+            "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+            "count": 5,
+            "color": "rgb(160, 160, 160)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "#header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 68
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px 10.7969px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 720,
+              "y": 0,
+              "w": 252,
+              "h": 900
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "67.84px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "main",
+            "selector": "#main",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 4742
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#footer",
+            "rect": {
+              "x": 0,
+              "y": 4500,
+              "w": 360,
+              "h": 242
+            },
+            "backgroundColor": "rgb(23, 23, 23)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#fullpage",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 4742
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "13.568px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "100%",
+            "count": 3,
+            "area": 1909,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "12.72px",
+            "count": 2,
+            "area": 2014,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.1) 1px 2px 30px 0px",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 6,
+            "area": 669242,
+            "sources": [
+              "nav",
+              "section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2) > span > span",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "rgb(23, 23, 23)",
+            "count": 2,
+            "area": 174026,
+            "sources": [
+              "#footer",
+              "#footer > div"
+            ]
+          },
+          {
+            "value": "rgb(145, 145, 145)",
+            "count": 2,
+            "area": 2014,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(245, 245, 247)",
+            "count": 1,
+            "area": 324000,
+            "sources": [
+              "#fullpage > section:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.5)",
+            "count": 1,
+            "area": 226800,
+            "sources": [
+              "nav > h2"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 1,
+            "area": 170,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2) > span"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 21,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 20,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > h2",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > p",
+              "div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > div:nth-of-type(1) > h3"
+            ]
+          },
+          {
+            "value": "rgb(102, 102, 102)",
+            "count": 8,
+            "sources": [
+              "nav > h2",
+              "nav > div > ul > li:nth-of-type(1) > a",
+              "nav > div > ul > li:nth-of-type(2) > a"
+            ]
+          },
+          {
+            "value": "rgb(153, 153, 153)",
+            "count": 4,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > p:nth-of-type(1) > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(160, 160, 160)",
+            "count": 2,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 2,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+              "#copyYear"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 1,
+            "sources": [
+              "#header > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(221, 221, 221)",
+            "count": 10,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.35)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Noto Sans KR",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "600",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.doosanbobcat.com/en"
+      },
+      "1440": {
+        "title": "Doosan Bobcat",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elements": {
+          "total": 580,
+          "visible": 343
+        },
+        "occluders": [],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "DOOSAN",
+            "selector": "#header > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22.6896px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.680688px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "menu",
+            "selector": "nav > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "0px",
+            "fontWeight": "700",
+            "lineHeight": "0px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h1",
+            "text": "Doosan Bobcat",
+            "selector": "#header > div > h1",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "30.2528px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.907584px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h2",
+            "text": "DOOSAN BOBCAT",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "46.4px",
+            "fontWeight": "700",
+            "lineHeight": "46.4px",
+            "letterSpacing": "-1.392px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Products",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "46.4px",
+            "fontWeight": "700",
+            "lineHeight": "46.4px",
+            "letterSpacing": "-1.392px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Compact Equipment",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8352px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Material Handling",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8352px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "Portable Power",
+            "selector": "div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8352px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h2",
+            "text": "Sustainability",
+            "selector": "#fullpage > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "46.4px",
+            "fontWeight": "700",
+            "lineHeight": "46.4px",
+            "letterSpacing": "-1.392px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Media Center",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "46.4px",
+            "fontWeight": "700",
+            "lineHeight": "46.4px",
+            "letterSpacing": "-1.392px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "More News More Videos",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "600",
+            "lineHeight": "27.84px",
+            "letterSpacing": "-0.8352px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "h3",
+            "text": "YouTube",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "27.84px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.8352px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Products",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Company",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Investors",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(3) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Sustainability",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(4) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h3",
+            "text": "Media Center",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(5) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "600",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "h2",
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22.6896px",
+            "fontWeight": "700",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.680688px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "h3",
+            "text": "Related Sites",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "14.848px",
+            "fontWeight": "400",
+            "lineHeight": "51.0474px",
+            "letterSpacing": "-0.44544px",
+            "textTransform": "none",
+            "color": "rgba(160, 160, 160, 0.5)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Be the First Choice for All Groundbreak…",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "55.68px",
+            "fontWeight": "700",
+            "lineHeight": "64.9563px",
+            "letterSpacing": "-1.6704px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat is dedicated to strengthe…",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > p:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "22.272px",
+            "fontWeight": "400",
+            "lineHeight": "35.2633px",
+            "letterSpacing": "-0.66816px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "As the inventor of the world's first sk…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "400",
+            "lineHeight": "25.9747px",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "li",
+            "text": "We invented the original skid- steer lo…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We offer the most attachments (100+ cat…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We have 1500+ dealerships in North Amer…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(3)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "We introduced the world's first all-ele…",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > ul > li:nth-of-type(4)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat builds the most reliable …",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(34, 34, 34)"
+          },
+          {
+            "tag": "li",
+            "text": "Compact Equipment Doosan Bobcat leads t…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "Material Handling We emphasizes operato…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "li",
+            "text": "Portable Power We provides durable and …",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3)",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "400",
+            "lineHeight": "normal",
+            "letterSpacing": "-0.453792px",
+            "textTransform": "none",
+            "color": "rgb(102, 102, 102)"
+          },
+          {
+            "tag": "p",
+            "text": "Doosan Bobcat is committed to a strong …",
+            "selector": "#fullpage > section:nth-of-type(4) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > p",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "16.704px",
+            "fontWeight": "400",
+            "lineHeight": "25.9747px",
+            "letterSpacing": "-0.50112px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Doosan Bobcat NA (North America)",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(34, 34, 34)",
+            "borderRadius": "0px",
+            "padding": "18.56px 35.264px",
+            "border": "",
+            "borderColor": "rgb(34, 34, 34) rgb(221, 221, 221) rgb(221, 221, 221)",
+            "boxShadow": "none",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "500",
+            "textTransform": "none",
+            "letterSpacing": "-0.453792px",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255) rgb(221, 221, 221) rgb(221, 221, 221)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Material Handling",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(4)",
+            "count": 2,
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(34, 34, 34)",
+            "borderRadius": "0px",
+            "padding": "18.56px 35.264px",
+            "border": "1px solid rgb(221, 221, 221)",
+            "borderColor": "rgb(221, 221, 221)",
+            "boxShadow": "none",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px",
+            "fontWeight": "500",
+            "textTransform": "none",
+            "letterSpacing": "-0.453792px",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(221, 221, 221)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          }
+        ],
+        "links": [
+          {
+            "text": "History of Doosan Bobcat",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(2) > a",
+            "count": 39,
+            "color": "rgb(255, 255, 255)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Compact Equipment Doosan Bobcat leads t…",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+            "count": 3,
+            "color": "rgb(34, 34, 34)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0.6)",
+              "color": "rgb(255, 255, 255)",
+              "borderColor": "rgba(221, 221, 221, 0.6)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "More News",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a:nth-of-type(1)",
+            "count": 6,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": {
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 94, 184)",
+              "borderColor": "rgb(0, 94, 184)",
+              "boxShadow": "none",
+              "changed": true
+            }
+          },
+          {
+            "text": "Doosan Bobcat EMEA (Europe · Middle Eas…",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2)",
+            "count": 2,
+            "color": "rgb(34, 34, 34)",
+            "textDecoration": "none",
+            "fontWeight": "500",
+            "hover": null
+          },
+          {
+            "text": "Doosan Bobcat",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2 > a",
+            "count": 1,
+            "color": "rgb(102, 102, 102)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          },
+          {
+            "text": "Suppliers",
+            "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+            "count": 5,
+            "color": "rgb(160, 160, 160)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "#header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 93
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px 43.1875px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 2880,
+              "y": 0,
+              "w": 792,
+              "h": 900
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "92.8px 0px 0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "fixed",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "main",
+            "selector": "#main",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 5146
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#footer",
+            "rect": {
+              "x": 0,
+              "y": 4500,
+              "w": 1440,
+              "h": 646
+            },
+            "backgroundColor": "rgb(23, 23, 23)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#fullpage",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 5146
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(102, 102, 102)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "relative",
+            "fontFamily": "Pretendard, \"Noto Sans KR\", \"Malgun Gothic\", dotum, sans-serif",
+            "fontSize": "15.1264px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "13.92px",
+            "count": 4,
+            "area": 8780,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+            ]
+          },
+          {
+            "value": "50%",
+            "count": 4,
+            "area": 6364,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > span > button",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > span > button",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > span > button"
+            ]
+          },
+          {
+            "value": "100%",
+            "count": 3,
+            "area": 2239,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(3)"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgba(0, 0, 0, 0.1) 1px 2px 30px 0px",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 6,
+            "area": 1616181,
+            "sources": [
+              "nav",
+              "section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2) > span > span",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "rgb(145, 145, 145)",
+            "count": 4,
+            "area": 8780,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > div > span",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+            ]
+          },
+          {
+            "value": "rgb(23, 23, 23)",
+            "count": 2,
+            "area": 1860930,
+            "sources": [
+              "#footer",
+              "#footer > div"
+            ]
+          },
+          {
+            "value": "rgb(245, 245, 247)",
+            "count": 1,
+            "area": 1296000,
+            "sources": [
+              "#fullpage > section:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.5)",
+            "count": 1,
+            "area": 712800,
+            "sources": [
+              "nav > h2"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 1,
+            "area": 186,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2) > span"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 65,
+            "sources": [
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2)",
+              "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 19,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > h2",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > p",
+              "div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > div:nth-of-type(1) > h3"
+            ]
+          },
+          {
+            "value": "rgb(102, 102, 102)",
+            "count": 8,
+            "sources": [
+              "nav > h2",
+              "nav > div > ul > li:nth-of-type(1) > a",
+              "nav > div > ul > li:nth-of-type(2) > a"
+            ]
+          },
+          {
+            "value": "rgb(153, 153, 153)",
+            "count": 8,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(160, 160, 160)",
+            "count": 2,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+              "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 2,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+              "#copyYear"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 1,
+            "sources": [
+              "#header > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(0, 94, 184)",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > div > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgba(160, 160, 160, 0.5)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(221, 221, 221)",
+            "count": 12,
+            "sources": [
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+              "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.3)",
+            "count": 6,
+            "sources": [
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(2) > h3",
+              "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(3) > h3"
+            ]
+          },
+          {
+            "value": "rgb(181, 181, 181)",
+            "count": 4,
+            "sources": [
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > span > button",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > span > button",
+              "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > span > button"
+            ]
+          },
+          {
+            "value": "rgb(34, 34, 34)",
+            "count": 1,
+            "sources": [
+              "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div"
+            ]
+          },
+          {
+            "value": "rgba(255, 255, 255, 0.35)",
+            "count": 1,
+            "sources": [
+              "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)"
+            ]
+          }
+        ],
+        "customProps": {},
+        "fonts": [
+          {
+            "family": "Noto Sans KR",
+            "weight": "100",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "300",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Noto Sans KR",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "600",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Pretendard",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          }
+        ],
+        "logoCandidates": [],
+        "iconFont": null,
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.doosanbobcat.com/en"
+      }
+    }
+  },
+  "aggregate": {
+    "counts": {
+      "pages": 2,
+      "widths": [
+        360,
+        1440
+      ],
+      "measurements": 4
+    },
+    "colors": [
+      {
+        "hex": "#ffffff",
+        "values": [
+          "rgb(255, 255, 255)",
+          "rgb(245, 245, 247)",
+          "rgb(250, 250, 250)"
+        ],
+        "weight": 294,
+        "bgArea": 8118854,
+        "by": {
+          "text": 155,
+          "link": 49,
+          "background": 74,
+          "heading": 16
+        },
+        "roles": [
+          "background",
+          "text"
+        ],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(2) > div > div > div > div:nth-of-type(2) > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#header",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(1)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#232323",
+        "values": [
+          "rgb(35, 35, 35)",
+          "rgb(34, 34, 34)",
+          "rgb(38, 38, 38)",
+          "rgb(23, 23, 23)"
+        ],
+        "weight": 186,
+        "bgArea": 4069912,
+        "by": {
+          "text": 130,
+          "button-text": 6,
+          "link": 10,
+          "background": 8,
+          "border": 2,
+          "heading": 30
+        },
+        "roles": [
+          "surface",
+          "heading"
+        ],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(1) > p > span:nth-of-type(1)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(1) > h2",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "nav > div > ul > li:nth-of-type(1) > a",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1) > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "prop": "button-text"
+          }
+        ]
+      },
+      {
+        "hex": "#666666",
+        "values": [
+          "rgb(102, 102, 102)"
+        ],
+        "weight": 124,
+        "by": {
+          "text": 86,
+          "link": 22,
+          "heading": 16
+        },
+        "roles": [
+          "accent"
+        ],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "nav > h2",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "nav > h2",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a:nth-of-type(1)",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(2)",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#dddddd",
+        "values": [
+          "rgb(221, 221, 221)",
+          "rgb(227, 230, 233)"
+        ],
+        "weight": 58,
+        "bgArea": 92285,
+        "by": {
+          "border": 49,
+          "button-border": 5,
+          "background": 4
+        },
+        "roles": [
+          "border"
+        ],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(3)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "prop": "button-border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ol > li:nth-of-type(1)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(4)",
+            "prop": "button-border"
+          }
+        ]
+      },
+      {
+        "hex": "#005eb8",
+        "values": [
+          "rgb(0, 94, 184)",
+          "rgb(0, 91, 172)"
+        ],
+        "weight": 62,
+        "bgArea": 253169,
+        "by": {
+          "text": 34,
+          "border": 20,
+          "background": 6,
+          "link": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "nav > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)",
+            "prop": "link"
+          }
+        ]
+      },
+      {
+        "hex": "#999999",
+        "values": [
+          "rgb(153, 153, 153)",
+          "rgb(160, 160, 160)",
+          "rgb(145, 145, 145)"
+        ],
+        "weight": 36,
+        "bgArea": 10794,
+        "by": {
+          "text": 20,
+          "link": 10,
+          "background": 6
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#ffffff4d",
+        "values": [
+          "rgba(255, 255, 255, 0.3)"
+        ],
+        "weight": 24,
+        "bgArea": 356,
+        "by": {
+          "border": 14,
+          "text": 8,
+          "background": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > div:nth-of-type(1) > div > article:nth-of-type(1) > h3",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(1) > p",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2) > span",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#333333",
+        "values": [
+          "rgb(51, 51, 51)",
+          "rgb(50, 50, 50)"
+        ],
+        "weight": 10,
+        "by": {
+          "text": 10
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > div > div:nth-of-type(1) > p > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > p",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#a0a0a080",
+        "values": [
+          "rgba(160, 160, 160, 0.5)"
+        ],
+        "weight": 10,
+        "by": {
+          "border": 2,
+          "heading": 4,
+          "text": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "prop": "heading"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "prop": "heading"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > h3",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#000000",
+        "values": [
+          "rgb(0, 0, 0)"
+        ],
+        "weight": 4,
+        "by": {
+          "text": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#header > div > div:nth-of-type(1) > button",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#header > div > div:nth-of-type(1) > button",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#00000080",
+        "values": [
+          "rgba(0, 0, 0, 0.5)"
+        ],
+        "weight": 4,
+        "bgArea": 1879200,
+        "by": {
+          "background": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "nav > h2",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "nav > h2",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#b5b5b5",
+        "values": [
+          "rgb(181, 181, 181)"
+        ],
+        "weight": 4,
+        "by": {
+          "border": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > span > button",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#ffffff59",
+        "values": [
+          "rgba(255, 255, 255, 0.35)"
+        ],
+        "weight": 4,
+        "by": {
+          "border": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2)",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#555555",
+        "values": [
+          "rgb(85, 85, 85)"
+        ],
+        "weight": 2,
+        "by": {
+          "text": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#footer > div > a > span:nth-of-type(2)",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#878788",
+        "values": [
+          "rgb(135, 135, 136)"
+        ],
+        "weight": 2,
+        "by": {
+          "text": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_pw > div:nth-of-type(2) > div > span",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#9cc4ec",
+        "values": [
+          "rgb(156, 196, 236)"
+        ],
+        "weight": 2,
+        "by": {
+          "text": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result_new_rg > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > span",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#c6d5e5",
+        "values": [
+          "rgb(198, 213, 229)"
+        ],
+        "weight": 2,
+        "by": {
+          "border": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#dce6f1",
+        "values": [
+          "rgb(220, 230, 241)"
+        ],
+        "weight": 2,
+        "by": {
+          "border": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div",
+            "prop": "border"
+          }
+        ]
+      }
+    ],
+    "type": {
+      "families": [
+        {
+          "family": "Pretendard",
+          "count": 120,
+          "headings": 66,
+          "text": 48,
+          "buttons": 6
+        }
+      ],
+      "headingFamily": "Pretendard",
+      "bodyFamily": "Pretendard",
+      "sizes": [
+        {
+          "px": 55.68,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 46.4,
+          "count": 5,
+          "headings": 5,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 37.12,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 30.25,
+          "count": 2,
+          "headings": 2,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 30,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 27.84,
+          "count": 12,
+          "headings": 12,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 27.14,
+          "count": 3,
+          "headings": 2,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 25.44,
+          "count": 5,
+          "headings": 5,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 24,
+          "count": 2,
+          "headings": 0,
+          "text": 2,
+          "buttons": 0
+        },
+        {
+          "px": 23.74,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 23,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 22.69,
+          "count": 4,
+          "headings": 4,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 22.27,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 22,
+          "count": 5,
+          "headings": 0,
+          "text": 5,
+          "buttons": 0
+        },
+        {
+          "px": 20.35,
+          "count": 11,
+          "headings": 11,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 20,
+          "count": 3,
+          "headings": 0,
+          "text": 3,
+          "buttons": 0
+        },
+        {
+          "px": 18.66,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 18,
+          "count": 3,
+          "headings": 0,
+          "text": 3,
+          "buttons": 0
+        },
+        {
+          "px": 16.96,
+          "count": 4,
+          "headings": 4,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 16.7,
+          "count": 13,
+          "headings": 10,
+          "text": 3,
+          "buttons": 0
+        },
+        {
+          "px": 16,
+          "count": 6,
+          "headings": 0,
+          "text": 6,
+          "buttons": 0
+        },
+        {
+          "px": 15.13,
+          "count": 10,
+          "headings": 0,
+          "text": 7,
+          "buttons": 3
+        },
+        {
+          "px": 15,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 14.85,
+          "count": 2,
+          "headings": 2,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 14.42,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 14.4,
+          "count": 2,
+          "headings": 0,
+          "text": 2,
+          "buttons": 0
+        },
+        {
+          "px": 13.57,
+          "count": 12,
+          "headings": 2,
+          "text": 10,
+          "buttons": 0
+        },
+        {
+          "px": 12.72,
+          "count": 3,
+          "headings": 0,
+          "text": 0,
+          "buttons": 3
+        },
+        {
+          "px": 0,
+          "count": 4,
+          "headings": 4,
+          "text": 0,
+          "buttons": 0
+        }
+      ],
+      "weights": [
+        {
+          "weight": "700",
+          "count": 34,
+          "headings": 32,
+          "text": 2,
+          "buttons": 0
+        },
+        {
+          "weight": "800",
+          "count": 34,
+          "headings": 14,
+          "text": 20,
+          "buttons": 0
+        },
+        {
+          "weight": "400",
+          "count": 28,
+          "headings": 6,
+          "text": 22,
+          "buttons": 0
+        },
+        {
+          "weight": "600",
+          "count": 18,
+          "headings": 14,
+          "text": 4,
+          "buttons": 0
+        },
+        {
+          "weight": "500",
+          "count": 6,
+          "headings": 0,
+          "text": 0,
+          "buttons": 6
+        }
+      ],
+      "levels": {
+        "h1": {
+          "fontSize": 30.25,
+          "fontWeight": "700",
+          "count": 2,
+          "score": 74.86
+        },
+        "h2": {
+          "fontSize": 46.4,
+          "fontWeight": "700",
+          "count": 4,
+          "score": 162.4
+        },
+        "h3": {
+          "fontSize": 27.84,
+          "fontWeight": "700",
+          "count": 3,
+          "score": 84.39
+        },
+        "h4": {
+          "fontSize": 37.12,
+          "fontWeight": "700",
+          "count": 1,
+          "score": 64.96
+        },
+        "h5": {
+          "fontSize": 27.84,
+          "fontWeight": "800",
+          "count": 7,
+          "score": 147.32
+        }
+      }
+    },
+    "motifs": {
+      "radius": {
+        "mode": "100%",
+        "areaMode": "70px",
+        "pill": "50%",
+        "values": [
+          {
+            "value": "50%",
+            "count": 16,
+            "area": 434838,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > span > button"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > span > button"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > span > button"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en/management/esg_result",
+                "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en/management/esg_result",
+                "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(1) > div > div > div:nth-of-type(1) > div"
+              }
+            ]
+          },
+          {
+            "value": "100%",
+            "count": 6,
+            "area": 4148,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(2)"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "#fullpage > section:nth-of-type(1) > div > div:nth-of-type(2) > div > div > span:nth-of-type(3)"
+              }
+            ]
+          },
+          {
+            "value": "13.92px",
+            "count": 4,
+            "area": 8780,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(2) > div > span"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+              }
+            ]
+          },
+          {
+            "value": "12.72px",
+            "count": 2,
+            "area": 2014,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(1) > div > span"
+              },
+              {
+                "url": "https://www.doosanbobcat.com/en",
+                "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a:nth-of-type(3) > div > span"
+              }
+            ]
+          },
+          {
+            "value": "70px",
+            "count": 2,
+            "area": 122820,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en/management/esg_result",
+                "selector": "#esg_result > div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > div"
+              }
+            ]
+          },
+          {
+            "value": "29.68px",
+            "count": 1,
+            "area": 17216,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en/management/esg_result",
+                "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > div:nth-of-type(1)"
+              }
+            ]
+          },
+          {
+            "value": "32.48px",
+            "count": 1,
+            "area": 38353,
+            "sources": [
+              {
+                "url": "https://www.doosanbobcat.com/en/management/esg_result",
+                "selector": "#esg_result > div > div:nth-of-type(7) > article:nth-of-type(2) > div > div:nth-of-type(1)"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgba(14, 23, 32, 0.13) 5px 9px 15px 0px",
+          "count": 20,
+          "sources": [
+            {
+              "url": "https://www.doosanbobcat.com/en/management/esg_result",
+              "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.doosanbobcat.com/en/management/esg_result",
+              "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(2)"
+            },
+            {
+              "url": "https://www.doosanbobcat.com/en/management/esg_result",
+              "selector": "div > div:nth-of-type(2) > div > div > article:nth-of-type(2) > div > ul > li:nth-of-type(3)"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.1) 1px 2px 30px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.doosanbobcat.com/en",
+              "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2)"
+            }
+          ]
+        }
+      ],
+      "gradients": []
+    },
+    "hover": [
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(102, 102, 102)"
+        },
+        "to": {
+          "color": "rgb(0, 94, 184)"
+        },
+        "count": 4,
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > h3 > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(2)"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en/management/esg_result",
+            "selector": "#main > section:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(2)"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "color": "rgb(34, 34, 34)"
+        },
+        "to": {
+          "color": "rgb(255, 255, 255)"
+        },
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(4)"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "color": "rgb(34, 34, 34)",
+          "borderColor": "rgb(34, 34, 34) rgb(221, 221, 221) rgb(221, 221, 221)"
+        },
+        "to": {
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgb(255, 255, 255) rgb(221, 221, 221) rgb(221, 221, 221)"
+        },
+        "count": 1,
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(5) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)"
+          }
+        ]
+      },
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(34, 34, 34)"
+        },
+        "to": {
+          "color": "rgb(255, 255, 255)"
+        },
+        "count": 1,
+        "sources": [
+          {
+            "url": "https://www.doosanbobcat.com/en",
+            "selector": "#fullpage > section:nth-of-type(3) > div > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a"
+          }
+        ]
+      }
+    ],
+    "logo": {
+      "source": "none",
+      "url": null,
+      "selector": null
+    },
+    "iconFont": null
+  }
+}

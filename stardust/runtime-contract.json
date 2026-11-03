@@ -1,0 +1,21 @@
+{
+  "runtime": "vanilla-eds",
+  "source": "read from this repo's scripts/scripts.js + scripts/aem.js (2026-11-02)",
+  "blockWrapperClass": "block",
+  "blockDom": "div.<name>-wrapper > div.<name>.block[data-block-name]; section gains .<name>-container",
+  "buttonClasses": "a.button.primary (strong) / a.button.secondary (em) / a.button.accent (strong+em), in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "buttonScope": "p a[href] only (decorateButtons); links inside li are never buttonized",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "fragmentDecoration": "loadFragment() runs decorateMain() + loadSections() on /nav and /footer",
+  "emptySectionCollapse": true,
+  "bodyClassFromMetadata": "template metadata -> body class (decorateTemplateAndTheme); home uses Template: index",
+  "htmlLang": "scripts.js sets document.documentElement.lang = 'en'",
+  "chrome": {
+    "header": "blocks/header renders /nav (metadata nav overrides); root .header.block carries state classes type-white | is-hover | menu-open; body.index = transparent header over the hero, every other page = white header",
+    "footer": "blocks/footer renders /footer (metadata footer overrides, e.g. /footer-home on the home page)",
+    "navHeightReservation": "0px — overlay chrome (header is position: fixed); pages offset their own first section"
+  },
+  "rootFontSize": "html 62.5% (10px); <=1470px 58%; <=1240px 55%; <=767px 53%",
+  "breakpoints": [1470, 1240, 767]
+}

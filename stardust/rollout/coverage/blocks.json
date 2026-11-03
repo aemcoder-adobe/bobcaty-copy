@@ -1,0 +1,153 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-02T22:34:58.978Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-02T23:22:12.403Z",
+  "blocks": [
+    {
+      "id": "esg-result",
+      "label": "esg-result",
+      "kind": "module",
+      "signature": "module:esg-result",
+      "source": null,
+      "usedByTemplates": [
+        "en-management-esg-result"
+      ],
+      "usedByPages": [
+        "en-management-esg-result"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "esg-result",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "home-company",
+      "label": "home-company",
+      "kind": "module",
+      "signature": "module:home-company",
+      "source": null,
+      "usedByTemplates": [
+        "en"
+      ],
+      "usedByPages": [
+        "en"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "home-company",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "home-esg",
+      "label": "home-esg",
+      "kind": "module",
+      "signature": "module:home-esg",
+      "source": null,
+      "usedByTemplates": [
+        "en"
+      ],
+      "usedByPages": [
+        "en"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "home-esg",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "home-news",
+      "label": "home-news",
+      "kind": "module",
+      "signature": "module:home-news",
+      "source": null,
+      "usedByTemplates": [
+        "en"
+      ],
+      "usedByPages": [
+        "en"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "home-news",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "home-products",
+      "label": "home-products",
+      "kind": "module",
+      "signature": "module:home-products",
+      "source": null,
+      "usedByTemplates": [
+        "en"
+      ],
+      "usedByPages": [
+        "en"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "home-products",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "home-visual",
+      "label": "home-visual",
+      "kind": "module",
+      "signature": "module:home-visual",
+      "source": null,
+      "usedByTemplates": [
+        "en"
+      ],
+      "usedByPages": [
+        "en"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "home-visual",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "sub-top",
+      "label": "sub-top",
+      "kind": "module",
+      "signature": "module:sub-top",
+      "source": null,
+      "usedByTemplates": [
+        "en-management-esg-result"
+      ],
+      "usedByPages": [
+        "en-management-esg-result"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "sub-top",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

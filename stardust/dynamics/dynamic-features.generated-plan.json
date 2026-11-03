@@ -1,0 +1,161 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-02T22:35:05.806Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--f1157cd0--aemcoder.aem.page",
+  "migrated": "stardust/migrated",
+  "knowledge": null,
+  "chrome": null
+ },
+ "rows": [
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "f-form-text-headerkeyword-origin-en-search-result-1-fields",
+   "class": "F",
+   "feature": "form \"text:headerKeyword\" → origin /en/search/result (1 fields)",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "text:headerKeyword"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "target": "block",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "i18n-locale-variants-na-na-kr-kr-na",
+   "class": "I18N",
+   "feature": "locale variants na,na,kr,kr,na",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "https://www.bobcat.com/na/en/buying-tools/build-quote",
+    "https://www.bobcat.com/na/en/dealer",
+    "https://www.doosanbobcat.com/kr"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees",
+   "alreadyDelivered": "output already carries \"https://www.bobcat.com/na/en/buying-tool\""
+  },
+  {
+   "id": "i18n-locale-variants-na-na-kr-na-ap",
+   "class": "I18N",
+   "feature": "locale variants na,na,kr,na,ap",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "https://www.bobcat.com/na/en/buying-tools/build-quote",
+    "https://www.bobcat.com/na/en/dealer",
+    "https://www.doosanbobcat.com/kr/management/esg_result"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees",
+   "alreadyDelivered": "output already carries \"https://www.bobcat.com/na/en/buying-tool\""
+  },
+  {
+   "id": "t-unknown-third-party-host-static-cloudflareinsights-com",
+   "class": "T",
+   "feature": "unknown third-party host static.cloudflareinsights.com",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "static.cloudflareinsights.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "analytics.google.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "stats.g.doubleclick.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  }
+ ]
+}

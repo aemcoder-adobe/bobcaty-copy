@@ -1,0 +1,66 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-02T22:34:59.084Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-02T22:34:59.084Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "en",
+    "en-management-esg-result"
+  ],
+  "steps": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "templateId": "en",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "home-visual",
+          "edsBlockName": "home-visual"
+        },
+        {
+          "id": "home-company",
+          "edsBlockName": "home-company"
+        },
+        {
+          "id": "home-products",
+          "edsBlockName": "home-products"
+        },
+        {
+          "id": "home-esg",
+          "edsBlockName": "home-esg"
+        },
+        {
+          "id": "home-news",
+          "edsBlockName": "home-news"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "en-management-esg-result",
+      "path": "/en/management/esg_result",
+      "templateId": "en-management-esg-result",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "sub-top",
+          "edsBlockName": "sub-top"
+        },
+        {
+          "id": "esg-result",
+          "edsBlockName": "esg-result"
+        }
+      ],
+      "reuse": []
+    }
+  ]
+}

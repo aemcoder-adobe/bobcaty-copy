@@ -1,0 +1,425 @@
+{
+  "slug": "en",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "home-visual",
+    "home-company",
+    "home-products",
+    "home-esg",
+    "home-news"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "fullpage"
+  ],
+  "canonShas": {
+    "header": "2dc31ef185fd",
+    "footer": "0d268ce63dc6",
+    "css": "3211e30e98c2"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Doosan Bobcat",
+    "description": "Inventing the world's first skid-steer loader, Doosan Bobcat is the global leader in the business of compact equipment, expanding our business portfolio into grounds maintenance equipment and Material Handling.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Doosan Bobcat",
+    "description": "Inventing the world's first skid-steer loader, Doosan Bobcat is the global leader in the business of compact equipment, expanding our business portfolio into grounds maintenance equipment and Material Handling.",
+    "url": "https://www.doosanbobcat.com/en"
+  },
+  "migratedAt": "2026-11-02T22:34:43Z",
+  "designMdSha": "9d8e62b28c2e",
+  "designJsonSha": "269e727120ff",
+  "sourceCurrentSha": "ae11f4ca8223",
+  "sourceProposedSha": "d8aebb1d3f40",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 75,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/products/compact/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_04",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_06",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_09",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_10",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_07",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_08",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_09",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/member",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/member",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/vision",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/history",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/brand",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/global",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/ci",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/contactus",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/irData",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/irData",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/governance01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/finance/01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/esg_strategy",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/esg_strategy",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/human-rights",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/ethics_canon",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/society",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/prvideo",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/kr",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/history",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/prvideo",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news/detail?id=333",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news/detail?id=331",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_04",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_06",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_09",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_10",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_07",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/compact/item_08",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/list",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_09",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/industrial/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/list.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_02",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_03",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/products/portable/item_05",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/member",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/vision",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/history",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/brand",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/global",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about/ci",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/contactus",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/irData",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/governance01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/investment/finance/01",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/esg_strategy",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/ethics_canon",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/management/society",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/news",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/mediacenter/prvideo",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/contact/legal",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/contact/terms",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/contact/privacy",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "en/_meta.json",
+  "driverVersion": "1"
+}

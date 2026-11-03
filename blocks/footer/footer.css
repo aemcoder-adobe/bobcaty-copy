@@ -1,20 +1,457 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* stylelint-disable no-descending-specificity -- canon cascade order is load-bearing (port) */
+
+/* Doosan Bobcat footer — port of the gated canon (stardust/prototypes/canon.css, FOOTER).
+   Root = the block element (canon #footer). */
+
+footer .footer {
+  background-color: var(--c-footer);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+footer .footer .hide {
+  position: absolute;
+  left: -9999%;
+  height: 0;
+  font-size: 0;
+  line-height: 0;
+  text-indent: -9999px;
 }
 
-footer .footer p {
-  margin: 0;
+footer .footer .inner {
+  width: var(--container-w);
+  max-width: var(--container);
+  margin: 0 auto;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+footer .footer .footer-wrap {
+  position: relative;
+  background-color: var(--c-footer);
+}
+
+footer .footer .sitemap {
+  display: flex;
+  padding: 4.5rem 0;
+  color: #fff;
+}
+
+footer .footer .sitemap article {
+  width: 16%;
+  margin-right: 6rem;
+}
+
+footer .footer .sitemap article:last-child {
+  margin-right: 0;
+}
+
+footer .footer .sitemap article.arti-product {
+  width: 36%;
+}
+
+footer .footer .sitemap .groups {
+  display: flex;
+  width: 100%;
+}
+
+footer .footer .sitemap .groups > li {
+  width: 33.333%;
+  padding-right: 3rem;
+}
+
+footer .footer .sitemap h3 {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgb(255 255 255 / 30%);
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+footer .footer .sitemap .item-cont {
+  display: flex;
+}
+
+footer .footer .sitemap .item-cont a {
+  position: relative;
+  color: #fff;
+}
+
+footer .footer .sitemap .item-cont a::after {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: #fff;
+  content: '';
+  transition: 0.2s;
+}
+
+footer .footer .sitemap .item-cont a:hover::after {
+  width: 100%;
+}
+
+footer .footer .sitemap .item-cont li {
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+}
+
+footer .footer .sitemap .item-cont .groups > li {
+  margin-bottom: 0;
+}
+
+footer .footer .sitemap .groups .group-title {
+  display: table;
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+}
+
+footer .footer .sitemap .groups .group-items li {
+  opacity: 0.6;
+}
+
+footer .footer .ft-bottom {
+  padding: 5rem 0;
+  border-top: 1px solid rgb(255 255 255 / 30%);
+}
+
+footer .footer .ft-bottom .inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer .footer .ft-bottom .left-con {
+  display: flex;
+  align-items: center;
+}
+
+footer .footer .ft-bottom .ft-logo a {
+  display: block;
+  width: 12.4rem;
+  height: 1.7rem;
+  background: url('media/doosan_logo_ft.png') no-repeat center / contain;
+}
+
+footer .footer .ft-bottom .copyright {
+  margin-left: 2rem;
+  color: rgb(255 255 255 / 30%);
+  font-size: 1.4rem;
+}
+
+footer .footer .ft-bottom .right-con {
+  display: flex;
+  align-items: center;
+}
+
+footer .footer .ft-bottom .ft-info {
+  display: flex;
+  align-items: center;
+}
+
+footer .footer .ft-bottom .ft-info li {
+  position: relative;
+  margin-left: 1.5rem;
+  padding-left: 1.6rem;
+}
+
+footer .footer .ft-bottom .ft-info li::after {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 1px;
+  height: 1rem;
+  margin-top: -0.5rem;
+  background: rgb(255 255 255 / 20%);
+  content: '';
+}
+
+footer .footer .ft-bottom .ft-info li:first-child {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+footer .footer .ft-bottom .ft-info li:first-child::after {
+  display: none;
+}
+
+footer .footer .ft-bottom .ft-info li a {
+  display: block;
+  position: relative;
+  color: #a0a0a0;
+  font-size: 1.5rem;
+}
+
+footer .footer .ft-bottom .ft-info li a::after {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: #fff;
+  content: '';
+  transition: 0.2s;
+}
+
+footer .footer .ft-bottom .ft-info li a:hover::after {
+  width: 100%;
+}
+
+footer .footer .ft-bottom .ft-info li strong,
+footer .footer .ft-bottom .ft-info li a strong {
+  color: #fff;
+  font-weight: 400;
+}
+
+footer .footer .ft-bottom .ft-info li a .ico {
+  display: inline-block;
+  margin-left: 0.6rem;
+}
+
+footer .footer .ft-bottom .ft-site {
+  position: relative;
+  width: 24rem;
+  margin-left: 4rem;
+  border: 1px solid rgb(255 255 255 / 35%);
+}
+
+footer .footer .ft-bottom .ft-site h3 {
+  position: relative;
+  padding-left: 2rem;
+  color: rgb(160 160 160 / 50%);
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 3.438em;
+  cursor: pointer;
+}
+
+footer .footer .ft-bottom .ft-site h3::after {
+  position: absolute;
+  top: 50%;
+  right: 2rem;
+  width: 1.2rem;
+  height: 0.6rem;
+  margin-top: -0.3rem;
+  background: url('media/button_ft_site.png') no-repeat center;
+  content: '';
+  transform: rotate(180deg);
+  transition: 0.2s;
+}
+
+footer .footer .ft-bottom .ft-site ul {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  width: 100%;
+  padding: 1rem 2rem;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+footer .footer .ft-bottom .ft-site ul li a {
+  display: block;
+  margin: 0.5rem 0;
+  color: #aaa;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  transition: 0.2s;
+}
+
+footer .footer .ft-bottom .ft-site ul li a:hover {
+  color: var(--c-brand);
+}
+
+footer .footer .ft-bottom .ft-site.open ul {
+  display: block;
+}
+
+footer .footer .ft-bottom .ft-site.open h3::after {
+  transform: rotate(0deg);
+}
+
+/* TOP button (scroll-progress ring) */
+footer .footer .top-btn {
+  display: inline-block;
+  position: absolute;
+  top: -10rem;
+  right: 3rem;
+  z-index: 8;
+  width: 65px;
+  height: 65px;
+  transition: 0.3s;
+}
+
+footer .footer .top-btn.posi-fixed {
+  position: fixed;
+  top: inherit;
+  bottom: 5.5rem;
+}
+
+footer .footer .top-btn.fadeout {
+  z-index: -1;
+  opacity: 0;
+}
+
+footer .footer .top-btn .progress {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+footer .footer .top-btn .progress canvas {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+footer .footer .top-btn .text {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #555;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 65px;
+  text-align: center;
+}
+
+/* home: the full-page scroller's TOP button (home.css .fullpg_top_btn); the scroller shows it
+   on its last slide via body.fp-viewing-5 */
+footer .footer .top-btn.fullpg-top-btn {
+  position: absolute;
+  top: -10rem;
+  right: 3rem;
+  bottom: auto;
+  z-index: 8;
+  opacity: 0;
+}
+
+body.fp-viewing-5 footer .footer .top-btn.fullpg-top-btn {
+  opacity: 1;
+}
+
+@media (width <= 1240px) {
+  footer .footer .ft-top {
+    display: none;
+  }
+
+  footer .footer .sitemap {
+    flex-wrap: wrap;
+  }
+
+  footer .footer .sitemap article {
+    width: 50%;
+    margin-right: 0;
+    padding-bottom: 2rem;
+  }
+
+  footer .footer .sitemap article.arti-product {
+    width: 100%;
+  }
+
+  footer .footer .ft-bottom {
+    padding: 3rem 0;
+  }
+
+  footer .footer .ft-bottom .ft-logo a {
+    width: 10rem;
+  }
+
+  footer .footer .ft-bottom .inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  footer .footer .ft-bottom .left-con {
+    order: 2;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+
+  footer .footer .ft-bottom .right-con {
+    flex-wrap: wrap;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid rgb(160 160 160 / 50%);
+  }
+
+  footer .footer .ft-bottom .right-con .ft-link {
+    width: 100%;
+  }
+
+  footer .footer .ft-bottom .ft-info {
+    flex-wrap: wrap;
+  }
+
+  footer .footer .ft-bottom .ft-info li {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    padding-left: 1.1rem;
+  }
+
+  footer .footer .ft-bottom .ft-site {
+    margin: 3rem 0 0;
+  }
+
+  footer .footer .ft-bottom .ft-site h3 {
+    line-height: 2.9em;
+  }
+
+  footer .footer .ft-bottom .copyright {
+    width: 100%;
+    font-size: 1.4rem;
+    text-align: center;
+  }
+}
+
+@media (width <= 767px) {
+  footer .footer .ft-bottom {
+    padding: 3.5rem 0;
+  }
+
+  footer .footer .ft-bottom .ft-site h3 {
+    line-height: 3em;
+  }
+
+  footer .footer .top-btn {
+    top: -7rem;
+    right: 2rem;
+    width: 50px;
+    height: 50px;
+  }
+
+  footer .footer .top-btn.posi-fixed {
+    bottom: 2rem;
+  }
+
+  footer .footer .top-btn .text {
+    line-height: 50px;
+  }
+
+  footer .footer .top-btn.fullpg-top-btn {
+    top: -7rem;
+    right: 2rem;
+    width: 50px;
+    height: 50px;
+  }
+}
+
+@media (width <= 420px) {
+  footer .footer .ft-bottom .ft-info li {
+    margin-right: 2.5rem;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  footer .footer .ft-bottom .ft-info li::after {
+    display: none;
+  }
+
+  footer .footer .ft-bottom .ft-info li.last {
+    width: auto;
+    margin-left: 0;
+    padding-left: 0;
   }
 }

@@ -1,0 +1,37 @@
+<!doctype html>
+<!-- stardust:provenance writtenBy=stardust:extract writtenAt=2026-11-02T21:35:00Z -->
+<html lang="en"><head><meta charset="utf-8"><title>Brand review — Doosan Bobcat (current state)</title>
+<style>
+@font-face{font-family:Pretendard;src:url(assets/fonts/Pretendard-Regular.woff2) format('woff2');font-weight:400}
+@font-face{font-family:Pretendard;src:url(assets/fonts/Pretendard-Bold.woff2) format('woff2');font-weight:700}
+body{margin:0;font-family:Pretendard,'Noto Sans KR',sans-serif;color:#232323;background:#fff}
+nav{position:sticky;top:0;background:#232323;color:#fff;padding:12px 40px;display:flex;gap:24px;font-size:14px}
+nav a{color:#fff;text-decoration:none}
+main{max-width:1200px;margin:0 auto;padding:40px}
+h1{font-size:48px;margin:0 0 8px}h2{font-size:28px;border-bottom:1px solid #ddd;padding-bottom:8px;margin-top:48px}
+.cite{color:#999;font-size:12px}.sw{display:inline-block;width:120px;margin:0 12px 12px 0;font-size:12px;color:#666}
+.sw i{display:block;height:64px;border:1px solid #ddd;margin-bottom:6px}
+.card{border-left:4px solid #005eb8;background:#dce6f1;padding:12px 16px;margin:12px 0}
+.callout{background:#f5f5f5;padding:12px 16px}
+img.shot{width:320px;border:1px solid #ddd;margin-right:16px;vertical-align:top}
+</style></head><body>
+<nav><a href="#coverage">Coverage</a><a href="#palette">Palette</a><a href="#type">Typography</a><a href="#motifs">Motifs</a><a href="#tensions">Tensions</a><a href="#pages">Pages</a></nav>
+<main>
+<h1>Doosan Bobcat — current state</h1>
+<p>https://www.doosanbobcat.com/en · 2 pages (scope fixed by run plan) · extract --prep --dynamics</p>
+<section id="coverage" class="callout"><strong>Coverage.</strong> 2/2 pages live-rendered (Playwright). Logo captured from CSS background images (no inline logo element). 43 first-level /en targets uncaptured — out of scope for this run by plan. <span class="cite">_crawl-log.json</span></section>
+<h2 id="palette">Palette</h2><p class="cite">_computed-styles.json § aggregate.colors</p>
+<div><span class="sw"><i style="background:#fff"></i>#ffffff background</span><span class="sw"><i style="background:#232323"></i>#232323 ink</span><span class="sw"><i style="background:#666"></i>#666666 text</span><span class="sw"><i style="background:#ddd"></i>#dddddd border</span><span class="sw"><i style="background:#005eb8"></i>#005eb8 brand blue</span><span class="sw"><i style="background:#999"></i>#999999 subtle</span><span class="sw"><i style="background:#9cc4ec"></i>#9cc4ec tint</span><span class="sw"><i style="background:#c6d5e5"></i>#c6d5e5 tint</span><span class="sw"><i style="background:#dce6f1"></i>#dce6f1 tint</span></div>
+<h2 id="type">Typography</h2><p class="cite">_computed-styles.json § aggregate.type; assets/css/main.css</p>
+<p style="font-size:56px;font-weight:700;line-height:1.17;margin:0">Be the First Choice for All Groundbreakers</p>
+<p style="font-size:46px;font-weight:700;margin:16px 0">DOOSAN BOBCAT</p>
+<p style="font-size:17px;color:#666">Pretendard 400/500/600/700 (OFL, self-hosted) — single family; rem sizes on a fluid root (62.5% → 58% → 55% → 53%).</p>
+<h2 id="motifs">Motifs</h2><p class="cite">_computed-styles.json § aggregate.motifs</p>
+<p>Radius: circular nodes (50%), 70px panels. Shadows: rgba(14,23,32,.13) 5px 9px 15px; rgba(0,0,0,.1) 1px 2px 30px. Home: full-viewport section scroller (fullpage.js) with video hero carousel.</p>
+<h2 id="tensions">Tensions</h2>
+<div class="card"><b>T-logo-variants</b> — Only CSS-background logo variants captured (white/colour PNG pairs, Doosan + Bobcat). No SVG variant.</div>
+<div class="card"><b>T-no-tokens</b> — No CSS custom properties defined. The migration target will introduce tokens.</div>
+<div class="card"><b>T-scale</b> — Type scale is ad-hoc (6rem → 5rem → 2.4rem → 1.8rem, no consistent ratio).</div>
+<h2 id="pages">Pages</h2>
+<img class="shot" src="assets/screenshots/en-thumb.png" alt="Home page capture"><img class="shot" src="assets/screenshots/en-management-esg-result-thumb.png" alt="ESG results capture">
+</main></body></html>

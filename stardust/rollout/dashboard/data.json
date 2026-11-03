@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-11-02T23:33:10.051Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.doosanbobcat.com/en",
+    "liveHost": "main--f1157cd0--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 2,
+    "prototyped": 2,
+    "deployed": 2,
+    "optimised": 0
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 2,
+    "optimised": 0
+  },
+  "pages": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "stage": "deployed",
+      "templateId": "en",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-management-esg-result",
+      "path": "/en/management/esg-result",
+      "stage": "deployed",
+      "templateId": "en-management-esg-result",
+      "isTemplate": true,
+      "openFindings": 1
+    }
+  ],
+  "templates": [
+    {
+      "id": "en",
+      "archetype": "en",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-management-esg-result",
+      "archetype": "en-management-esg-result",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 7,
+    "converted": 7
+  },
+  "quality": {
+    "overall": 100,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": null,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": null
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "history": [
+      100
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 2
+    },
+    "byAutofix": {}
+  }
+}

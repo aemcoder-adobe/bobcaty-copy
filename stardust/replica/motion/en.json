@@ -1,0 +1,1545 @@
+{
+  "url": "https://www.doosanbobcat.com/en",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "",
+      "position": "fixed",
+      "height": "92.7969px",
+      "transform": "none",
+      "transition": "0.5s",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".mvisual_pagination .swiper-pagination-bullet:nth-child(2)",
+      "frames": [
+        {
+          "t": 15593.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 15799.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 16003.69999999972,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 16209.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".product_card_swiper .swiper-slide",
+      "changed": [
+        "a.card.color",
+        "a.card.background",
+        "h3.card_title.color",
+        "img..color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(102, 102, 102)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "transform, -webkit-transform"
+        },
+        "subs": [
+          {
+            "el": "a.card",
+            "transform": "none",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.card_title",
+            "transform": "none",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(102, 102, 102)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "transform, -webkit-transform"
+        },
+        "subs": [
+          {
+            "el": "a.card",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.6)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.card_title",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".news_section .news_list .item",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(102, 102, 102)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.2s"
+        },
+        "subs": [
+          {
+            "el": "button.btnset.arrow",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "0.1s"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(102, 102, 102)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.2s"
+        },
+        "subs": [
+          {
+            "el": "button.btnset.arrow",
+            "transform": "none",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "0.1s"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".news_section .youtube .link_list .item",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".company_section .btn_more_type01",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "span.arrow",
+            "transform": "none",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".news_title .view_all_btn",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(102, 102, 102)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.3s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 94, 184)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.3s"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [
+      {
+        "src": "https://www.doosanbobcat.com/images/main/mvisual_video01.mp4",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 7.340667,
+        "readyState": 4,
+        "inViewport": true,
+        "currentTimeAfter": 7.340667,
+        "playing": false
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/mvisual_video03.mp4",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": false,
+        "currentTime": 1.452655,
+        "readyState": 4,
+        "inViewport": true,
+        "currentTimeAfter": 2.293958,
+        "playing": false
+      },
+      {
+        "src": "https://www.doosanbobcat.com/images/main/mvisual_video04.mp4",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 5.005,
+        "readyState": 4,
+        "inViewport": true,
+        "currentTimeAfter": 0.6529,
+        "playing": false
+      }
+    ],
+    "idleClassMutations": [
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active"
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev"
+      },
+      {
+        "added": [
+          "on"
+        ],
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on"
+      }
+    ],
+    "idleClassMutationCount": 24
+  },
+  "events": {
+    "animations": [
+      {
+        "name": "buttonUnderline",
+        "el": "div.fp-tableCell > div.inner > div.company_wrap > div.btn_wrap.ta_c > a.btn_more_type01",
+        "txt": "History of Doosan Bobcat",
+        "y": 0
+      }
+    ],
+    "transitions": [
+      {
+        "prop": "opacity",
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev > div.bg > video.mv-video",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "width",
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0,
+        "dur": "4.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next > div.bg > video.mv-video",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "width",
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0,
+        "dur": "2.2s"
+      },
+      {
+        "prop": "color",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-active.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-active.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-active.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.product_section.fp-section > div.fp-tableCell > div.section_cont.inner > div.bg_wrap > div.bg.active",
+        "y": 0,
+        "dur": "0.7s"
+      },
+      {
+        "prop": "color",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-next.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-next.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "ul.swiper-wrapper > li.swiper-slide.swiper-slide-next.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "color",
+        "el": "ul.swiper-wrapper > li.swiper-slide.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "ul.swiper-wrapper > li.swiper-slide.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "ul.swiper-wrapper > li.swiper-slide.card_hover > a.card > div.text_area > p.card_text",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.product_section.fp-section > div.fp-tableCell > div.section_cont.inner > div.bg_wrap > div.bg",
+        "y": 0,
+        "dur": "0.7s"
+      },
+      {
+        "prop": "color",
+        "el": "div.media > div.news > div.news_list > a.item > p.date",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "background-image",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "color",
+        "el": "div.news > div.news_list > a.item > p.date > span",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.news > div.news_list > a.item > div.category > span.label",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "color",
+        "el": "div.news > div.news_list > a.item > p.date > span.day",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "color",
+        "el": "div.media > div.news > div.news_list > a.item > p.date",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "background-image",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.news > div.news_list > a.item > span.ico > button.btnset.arrow",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "color",
+        "el": "div.news > div.news_list > a.item > p.date > span",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.news > div.news_list > a.item > div.category > span.label",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "color",
+        "el": "div.news > div.news_list > a.item > p.date > span.day",
+        "y": 0,
+        "dur": "0.1s"
+      },
+      {
+        "prop": "opacity",
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev > div.bg > video.mv-video",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "color",
+        "el": "div.section_cont.inner > div.youtube > div.link_list > a.item > p.text",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "width",
+        "el": "div.fp-tableCell > div.section_cont.inner > div.youtube > div.link_list > a.item",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "width",
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0,
+        "dur": "4.9s"
+      },
+      {
+        "prop": "color",
+        "el": "div.section_cont.inner > div.youtube > div.link_list > a.item > p.text",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "width",
+        "el": "div.fp-tableCell > div.section_cont.inner > div.youtube > div.link_list > a.item",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "color",
+        "el": "div.media > div.news > h3.news_title > a.view_all_btn.first > span.ico",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "background-image",
+        "el": "div.media > div.news > h3.news_title > a.view_all_btn.first > span.ico",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "color",
+        "el": "div.section_cont.inner > div.media > div.news > h3.news_title > a.view_all_btn.first",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "color",
+        "el": "div.media > div.news > h3.news_title > a.view_all_btn.first > span.ico",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "background-image",
+        "el": "div.media > div.news > h3.news_title > a.view_all_btn.first > span.ico",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "color",
+        "el": "div.section_cont.inner > div.media > div.news > h3.news_title > a.view_all_btn.first",
+        "y": 0,
+        "dur": "0.3s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "on"
+        ],
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-next"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-next",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_1.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "on"
+        ],
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0
+      },
+      {
+        "added": [
+          "type_white"
+        ],
+        "el": "html.fp-enabled > body.index.en.fp-viewing-0",
+        "y": 0
+      },
+      {
+        "added": [
+          "card_hover"
+        ],
+        "el": "div.fp-tableCell > div.section_cont.inner > div.swiper-container.product_card_swiper.swiper-container-initialized > ul.swiper-wrapper > li.swiper-slide.swiper-slide-active.card_hover",
+        "y": 0
+      },
+      {
+        "added": [
+          "card_hover"
+        ],
+        "el": "div.fp-tableCell > div.section_cont.inner > div.swiper-container.product_card_swiper.swiper-container-initialized > ul.swiper-wrapper > li.swiper-slide.swiper-slide-next.card_hover",
+        "y": 0
+      },
+      {
+        "added": [
+          "card_hover"
+        ],
+        "el": "div.fp-tableCell > div.section_cont.inner > div.swiper-container.product_card_swiper.swiper-container-initialized > ul.swiper-wrapper > li.swiper-slide.card_hover",
+        "y": 0
+      },
+      {
+        "added": [
+          "active"
+        ],
+        "el": "section.section.product_section.fp-section > div.fp-tableCell > div.section_cont.inner > div.bg_wrap > div.bg.active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-pagination-bullet-active"
+        ],
+        "el": "div.fp-tableCell > div.textbox.inner > div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-active"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_4.swiper-slide-active",
+        "y": 0
+      },
+      {
+        "added": [
+          "swiper-slide-prev"
+        ],
+        "el": "section.section.visual_section.fp-section > div.fp-tableCell > div.swiper-container.mvisual_swiper.swiper-container-fade > div.swiper-wrapper > div.swiper-slide.slide_3.swiper-slide-prev",
+        "y": 0
+      },
+      {
+        "added": [
+          "on"
+        ],
+        "el": "div.control > div.mvisual_pagination.swiper-pagination-clickable.swiper-pagination-bullets > span.pg_btn.swp_btn.swiper-pagination-bullet > span.bar > span.active_bar.on",
+        "y": 0
+      }
+    ]
+  }
+}
